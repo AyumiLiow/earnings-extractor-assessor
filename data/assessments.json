@@ -1224,5 +1224,202 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-25T21:59:42+08:00"
+  },
+  {
+    "accession": "0000763901-26-000022",
+    "cik": "763901",
+    "company": "POPULAR, INC.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty, so there is nothing to check. The release gives no total revenue line for this bank."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty, so there is nothing to check. The release gives income before income tax (310,405 thousand) instead."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure is filed yet for the quarter ending 2026-09-30. The quote is in the release and holds 266.334 million (266,334 thousand)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure is filed yet for the quarter ending 2026-09-30. The quote is in the release and holds the 4.21 extracted."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both quotes are in the release and hold their numbers (266,334 thousand; 4.21). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Revenue and operating income are not given as such by this bank, so empty is fair. The release has an outlook table (lines 372-374) but guidance is empty."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Only net income and EPS are given, and the 10-Q is not filed. The analyst must read the release for revenue-type lines and guidance."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "266.334 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "4.21 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "EPS of 4.21 is 3.2% below the 4.35 of the previous quarter and 34.1% above the 3.14 of a year ago. Net income rose 26.0% on a year ago."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table (thousands): net interest income 698,930 vs 693,419; expenses 505,590 vs 484,130; non-interest income 175,658 vs 180,545."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "EPS is up 34.1% on a year ago and net income up 26.0%, though both are slightly down on the previous quarter (-3.2% and -4.3%)."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 266.334,
+        "this_quarter_from": "release",
+        "year_ago": 211.317,
+        "change_year": 26.0,
+        "previous_quarter": 278.214,
+        "change_quarter": -4.3
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 4.21,
+        "this_quarter_from": "release",
+        "year_ago": 3.14,
+        "change_year": 34.1,
+        "previous_quarter": 4.35,
+        "change_quarter": -3.2
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Earnings per share were $4.21, lower than the second quarter and higher than a year earlier.",
+        "quote": "We reported earnings per share of $4.21, 3% lower than the second quarter and 34% higher than the third quarter of 2025",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Results reflected higher net interest income, offset in part by higher operating expenses and lower non-interest income.",
+        "quote": "These results reflected higher net interest income, stable underlying credit trends and continued",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO is pleased with the quarter and calls credit metrics stable, while staying attentive to economic conditions."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-25T22:01:00+08:00"
   }
 ]
