@@ -1,0 +1,1381 @@
+Company: POPULAR, INC. (CIK 763901)
+Accession: 0000763901-26-000022
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/763901/000076390126000022/ex9918kpressreleaseq32026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/763901/000076390126000022/0000763901-26-000022-index.htm
+Saved: 2026-10-25T21:55:56+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex9918kpressreleaseq32026.htm EX-99.1
+1
+Exhibit 99.1
+SAN JUAN, Puerto Rico – (BUSINESS WIRE) – Popular, Inc. (the “Corporation,” “Popular,” “we,” “us,” “our”) (NASDAQ:
+BPOP)
+Popular, Inc. Announces Third Quarter 2026 Financial Results
+FINANCIAL HIGHLIGHTS
+($ in millions, except per share information) | Quarters ended
+30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+EARNINGS
+Net Income | $266 | $278 | $(12) | $211 | $55
+PER SHARE DATA
+Basic EPS | $4.21 | $4.35 | $(0.14) | $3.15 | $1.06
+Diluted EPS | $4.21 | $4.35 | $(0.14) | $3.14 | $1.07
+Tangible Book Value / Share (non-GAAP) | $86.30 | $87.94 | $(1.64) | $79.12 | $7.18
+FINANCIAL CONDITION
+Total Assets | $77,759 | $78,972 | $(1,213) | $75,066 | $2,693
+Loans Held in Portfolio | $40,043 | $39,750 | $293 | $38,687 | $1,356
+Deposits | $68,705 | $70,233 | $(1,528) | $66,513 | $2,192
+Borrowings | $1,325 | $1,463 | $(138) | $1,247 | $78
+CREDIT QUALITY
+Non-Performing Loans | $466 | $413 | $53 | $502 | $(36)
+NPL Ratio | 1.16% | 1.04% | 12 bps | 1.30% | -14 bps
+NCO Ratio | 0.73% | 1.05% | -32 bps | 0.60% | 13 bps
+ACL / Total Loans | 1.92% | 1.97% | -5 bps | 2.03% | -11 bps
+ACL / NPLs | 165% | 190% | (25)% | 157% | 8%
+CAPITAL & LIQUIDITY
+Common Equity Tier 1 | 16.06% | 16.08% | -2 bps | 15.79% | 27 bps
+Tier 1 Risk-Based Capital | 16.12% | 16.13% | -1 bps | 15.84% | 28 bps
+Total Risk-Based Capital | 17.84% | 17.85% | -1 bps | 17.58% | 26 bps
+Tier 1 Leverage | 8.52% | 8.57% | -5 bps | 8.48% | 4 bps
+Capital Returned to Shareholders | $236 | $174 | $62 | $170 | $66
+FINANCIAL RATIOS
+Net Interest Margin ("NIM") | 3.63% | 3.66% | -3 bps | 3.51% | 12 bps
+NIM (FTE) (non-GAAP) | 4.16% | 4.17% | -1 bps | 3.90% | 26 bps
+Total Deposit Costs | 1.64% | 1.57% | 7 bps | 1.79% | -15 bps
+ROTCE (non-GAAP) | 15.80% | 17.02% | -122 bps | 13.06% | 274 bps
+ROA | 1.32% | 1.41% | -9 bps | 1.09% | 23 bps
+The financial information in this earnings release includes non-GAAP financial measures. These measures are intended to supplement, and
+should not be considered a substitute for, GAAP results. See the "Non-GAAP Financial Measures" section for additional information; and
+Table R - Reconciliation to GAAP Financial Measures. All financial information in this release, including the accompanying tables, is
+unaudited.
+2
+CEO COMMENTARY
+Jorge J. García, President and Chief Executive Officer, said:
+"We are pleased with our third quarter results. Our financial performance was solid, and we continued to advance our three
+strategic objectives: being the number one bank for our customers, being simple and efficient, and being a top-performing
+bank."
+"We reported earnings per share of $4.21, 3% lower than the second quarter and 34% higher than the third quarter of 2025,
+and a ROTCE of 15.80%. These results reflected higher net interest income, stable underlying credit trends and continued
+capital return, partially offset by higher operating expenses and lower non-interest income. During the quarter, we
+repurchased $179 million of common stock and declared a 20% increase in our quarterly common stock dividend to $0.90
+per share."
+"Business activity in Puerto Rico remains healthy, supported by a strong labor market. Credit metrics continue to be stable
+while we remain attentive to economic conditions, given the potential impact of prolonged inflation and higher cost of fuel
+and energy."
+"It is a privilege to step into this role with a strong capital position, a solid banking franchise, a talented team and meaningful
+momentum. Our responsibility is to build on those strengths and continue creating long-term value for our customers,
+shareholders, colleagues, and communities."
+"I am grateful to our team for their commitment and the results they deliver every day."
+EARNINGS HIGHLIGHTS
+Quarters ended
+(Dollars in thousands) | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Net interest income | $698,930 | $693,419 | $5,511 | $646,505 | $52,425
+Provision for credit losses | 58,593 | 65,873 | (7,280) | 75,125 | (16,532)
+Net interest income after provision for credit losses | 640,337 | 627,546 | 12,791 | 571,380 | 68,957
+Non-Interest Income | 175,658 | 180,545 | (4,887) | 171,195 | 4,463
+Operating expenses | 505,590 | 484,130 | 21,460 | 495,287 | 10,303
+Income before income tax | 310,405 | 323,961 | (13,556) | 247,288 | 63,117
+Income tax expense | 44,071 | 45,747 | (1,676) | 35,971 | 8,100
+Net income | $266,334 | $278,214 | $(11,880) | $211,317 | $55,017
+Net income per common share-basic | $4.21 | $4.35 | $(0.14) | $3.15 | $1.06
+Net income per common share-diluted | $4.21 | $4.35 | $(0.14) | $3.14 | $1.07
+3
+NET INTEREST INCOME (“NII”) AND NET INTEREST MARGIN (“NIM”)
+(Dollars in thousands) | Quarters ended
+Popular, Inc. | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Net interest income | $698,930 | $693,419 | $5,511 | $646,505 | $52,425
+Net interest margin | 3.63% | 3.66% | -3 bps | 3.51% | 12 bps
+Net interest margin FTE [1] | 4.16% | 4.17% | -1 bps | 3.90% | 26 bps
+Total deposit costs | 1.64% | 1.57% | 7 bps | 1.79% | -15 bps
+Core deposit costs (ex. P.R. public deposits) | 1.13% | 1.10% | 3 bps | 1.17% | -4 bps
+Loan yields FTE [1] | 7.56% | 7.53% | 3 bps | 7.49% | 7 bps
+Money market and investment securities yield FTE [1] | 3.82% | 3.69% | 13 bps | 3.59% | 23 bps
+Banco Popular de Puerto Rico ("BPPR") Segment
+Net interest income | $592,006 | $589,922 | $2,084 | $550,716 | $41,290
+Net interest margin | 3.81% | 3.85% | -4 bps | 3.71% | 10 bps
+Total deposit costs | 1.41% | 1.32% | 9 bps | 1.53% | -12 bps
+Popular Bank ("PB" or "Popular US") Segment
+Net interest income | $116,659 | $113,076 | $3,583 | $105,203 | $11,456
+Net interest margin | 3.20% | 3.17% | 3 bps | 2.94% | 26 bps
+Total deposit costs | 2.74% | 2.73% | 1 bps | 2.96% | -22 bps
+[1] Refer to non-GAAP measures section in this earnings release.
+Popular, Inc. – Net interest income ("NII") of $699 million increased $6 million from Q2 2026, driven by higher income from
+investment securities and commercial loans, as well as the impact of one additional day in the quarter. The increase was
+partially offset by higher interest expense on deposits, primarily reflecting higher average balances of public deposits and
+higher rates on such deposits. Average earning assets increased $677 million, primarily attributable to higher U.S. Treasury
+securities balances due to re-investment of maturities at higher yields, coupled with higher average commercial loans. Total
+average deposits increased by $502 million, driven by an average increase of $1.1 billion in Puerto Rico public deposits,
+partially offset by average decreases of $280 million in savings accounts, mainly retail deposits, and $362 million in non-
+interest-bearing demand deposits. Excluding P.R. public deposits, total average deposits decreased by $619 million.
+Net interest margin ("NIM") decreased three basis points to 3.63%. Loan yields increased by one basis point to 7.24%.
+Deposit costs increased by seven basis points to 1.64%. Excluding P.R. public deposits, deposit costs increased three basis
+points to 1.13%. The additional day in the quarter contributed $6 million to net interest income in Q3 2026.
+NII fully taxable equivalent ("FTE") and NIM FTE (Non-GAAP) – NII FTE of $802 million increased $13 million from Q2
+2026, while NIM FTE decreased 1 basis point to 4.16%. Money market and investment securities yields FTE increased by
+13 basis points, mainly driven by purchases and re-investment of maturities into higher yielding U.S. Treasury securities.
+Loan yields FTE increased by three basis points to 7.56%.
+Interest income on a taxable equivalent basis is presented to show the effect of tax-exempt interest income from U.S.
+Treasury securities, certain GNMA securities and certain loans in BPPR's portfolios that are exempt from Puerto Rico
+income taxes.
+Refer to tables D, E and F for more details on the components of NII and NIM on a taxable equivalent basis.
+Banco Popular de Puerto Rico ("BPPR") Segment – NII of $592 million increased $2 million from Q2 2026. The increase
+was primarily due to an increase in income from money market and investment securities by $14 million or 10 basis points
+as a result of higher average balances and higher yields of U.S. Treasury securities and higher income from loans by $5
+million, driven by higher average balances, mainly in the mortgage and personal loans portfolios and by one additional day
+in the quarter. Higher interest expense on deposits of $17 million was primarily due to higher average balances on the
+market-linked P.R. public deposits by $1.1 billion and an 11 basis points increase in the rates of those deposits. NIM
+declined four basis points during Q3 2026 to 3.81%. Deposit costs increased by nine basis points to 1.41%, including the
+costs of P.R. public deposits which increased 11 basis points to 2.72% for the period. Excluding P.R. public deposits, deposit
+costs increased by two basis points.
+Popular Bank ("PB") Segment – NII of $117 million increased $4 million, or 3%, from Q2 2026. The increase was mainly
+due to higher income from loans by $6 million, mainly due to commercial loans with higher income by $8 million and higher
+yields by 11 basis points, driven by new originations carrying higher yields, partially offset by higher interest expense by $1
+million attributable to higher average balances on time deposits. NIM expanded three basis points to 3.20%. Deposit costs
+increased by one basis point to 2.74%.
+4
+NON-INTEREST INCOME
+Quarters ended
+(Dollars in thousands) | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Service charges on deposits | $37,106 | $39,037 | $(1,931) | $39,077 | $(1,971)
+Debit card fees | 30,841 | 31,538 | (697) | 28,084 | 2,757
+Credit card fees | 35,270 | 34,783 | 487 | 32,668 | 2,602
+Other fees | 12,662 | 12,136 | 526 | 11,172 | 1,490
+Banking fees | $115,879 | $117,494 | $(1,615) | $111,001 | $4,878
+Insurance fees | 12,893 | 12,586 | 307 | 12,995 | (102)
+Brokerage and asset management fees | 11,007 | 9,998 | 1,009 | 9,459 | 1,548
+Trust fees | 7,911 | 7,751 | 160 | 6,998 | 913
+Asset management and insurance fees | $31,811 | $30,335 | $1,476 | $29,452 | $2,359
+Mortgage banking activities | 4,852 | 6,267 | (1,415) | 2,771 | 2,081
+Other operating income | 23,116 | 26,449 | (3,333) | 27,971 | (4,855)
+Non-interest income | $175,658 | $180,545 | $(4,887) | $171,195 | $4,463
+Non-interest income of $176 million decreased $5 million, or 3%, from Q2 2026.
+Key drivers:
+Banking fees decreased $2 million to $116 million, mainly due to a decrease in service charges on deposits driven by a new
+deposit product launched during the month of August, which offers $0 service fees to clients that meet certain criteria.
+Other operating income decreased $3 million to $23 million, driven by a $3 million unrealized investment gain recognized in
+Q2, a $2 million impairment charge on certain equity investments, and a $2 million lower favorable valuation adjustment of
+securities held for deferred benefit plans, which have an offsetting effect in personnel costs. These were partially offset by a
+$5 million benefit recognized in other income in connection with the refinancing of a commercial loan during the quarter.
+Refer to Table B for further details.
+OPERATING EXPENSES
+Quarters ended
+(Dollars in thousands) | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Salaries | $141,357 | $134,448 | $6,909 | $139,350 | $2,007
+Commissions and incentives | 42,709 | 39,911 | 2,798 | 35,309 | 7,400
+Profit sharing | 15,097 | 10,000 | 5,097 | 13,000 | 2,097
+Pension, postretirement and other | 45,907 | 44,672 | 1,235 | 45,329 | 578
+Total personnel costs | $245,070 | $229,031 | $16,039 | $232,988 | $12,082
+Technology and software | 90,068 | 90,971 | (903) | 87,117 | 2,951
+Professional fees | 25,587 | 24,484 | 1,103 | 25,808 | (221)
+Business promotion | 28,428 | 27,900 | 528 | 27,304 | 1,124
+Transactional services | 39,670 | 37,266 | 2,404 | 38,408 | 1,262
+Net occupancy | 29,157 | 27,764 | 1,393 | 26,083 | 3,074
+Other operating expenses | 47,610 | 46,714 | 896 | 57,579 | (9,969)
+Operating Expenses | $505,590 | $484,130 | $21,460 | $495,287 | $10,303
+Total operating expenses of $506 million increased $21 million, or 4%, from Q2 2026.
+Key drivers: Personnel costs increased by $16 million, or 7%, driven by higher salaries by $7 million due to annual salary
+and merit increases effective in Q3 combined with one additional day in the quarter and higher incentives by $8 million,
+including $5 million related to profit-sharing and $3 million related to short-term incentives, both of which are tied to the
+Corporation's financial performance.
+Full-time equivalent employees were 9,112 as of September 30, 2026, compared to 9,203 as of June 30, 2026.
+Transactional services increased $2 million, driven by a retroactive credit of $1.6 million recorded in Q2 and higher card
+supplies expenses. Net occupancy expenses increased $1 million, primarily due to repair projects across the Corporation.
+Professional fees increased $1 million, mainly due to costs associated with corporate initiatives.
+For a breakdown of operating expenses by category in the consolidated statement of operations refer to Table B.
+5
+INCOME TAXES
+For the third quarter of 2026, the Corporation recorded an income tax expense of $44 million, a decrease of $2 million when
+compared to $46 million in the previous quarter.
+The effective tax rate ("ETR") of the Corporation is impacted by the composition and source of its taxable income and tax
+credit activities. The ETR for the third quarter of 2026 was 14.2%, consistent with the previous quarter's ETR of 14.1%,
+primarily driven by the recognition of tax-exempt income and other tax benefits, such as the purchase of tax credits.
+CREDIT QUALITY
+Credit Quality Metrics
+(Dollars in thousands) | Quarters ended
+Popular, Inc. | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Provision for credit losses - loan portfolios | $58,788 | $65,154 | $(6,366) | $74,517 | $(15,729)
+Net charge-offs | 72,936 | 104,053 | (31,117) | 57,788 | 15,148
+ACL - loans held-in-portfolio | 770,687 | 784,832 | (14,145) | 786,220 | (15,533)
+Annualized net charge-offs to average loans held-in-portfolio | 0.73% | 1.05% | (32) bps | 0.60% | 13 bps
+NPL Ratio | 1.16% | 1.04% | 12 bps | 1.30% | (14) bps
+Allowance / loans held-in-portfolio | 1.92% | 1.97% | (5) bps | 2.03% | (11) bps
+Non-performing assets | 510,084 | 546,694 | (36,610) | 545,152 | (35,068)
+Non-performing loans held-in-portfolio | 465,785 | 413,437 | 52,348 | 502,202 | (36,417)
+Non-performing loans held-for-sale | — | 83,700 | (83,700) | — | —
+Other real estate owned ("OREO") | 44,299 | 49,557 | (5,258) | 42,950 | 1,349
+Allowance / non-performing loans held-in-portfolio | 165% | 190% | (25)% | 157% | 8%
+(Dollars in thousands) | Quarters ended
+BPPR | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Provision for credit losses - loan portfolios | $61,329 | $61,738 | $(409) | $72,639 | $(11,310)
+Net charge-offs | 72,077 | 101,688 | (29,611) | 56,539 | 15,538
+Total non-performing loans held-in-portfolio | 421,954 | 367,824 | 54,130 | 453,369 | (31,415)
+ACL - loans held-in-portfolio | 681,542 | 692,287 | (10,745) | 695,355 | (13,813)
+Annualized net charge-offs to average loans held-in-portfolio | 1.03% | 1.46% | (43) bps | 0.84% | 19 bps
+Allowance / loans held-in-portfolio | 2.41% | 2.47% | (6) bps | 2.56% | (15) bps
+Allowance / non-performing loans held-in-portfolio | 162% | 188% | (26)% | 153% | 9%
+(Dollars in thousands) | Quarters ended
+Popular U.S. | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Provision for credit losses (benefit) - loan portfolios | $(2,541) | $3,416 | $(5,957) | $1,878 | $(4,419)
+Net charge-offs | 859 | 2,365 | (1,506) | 1,249 | (390)
+Total non-performing loans held-in-portfolio | 43,831 | 45,613 | (1,782) | 48,833 | (5,002)
+ACL - loans held-in-portfolio | 89,145 | 92,545 | (3,400) | 90,865 | (1,720)
+Annualized net charge-offs to average loans held-in-portfolio | 0.03% | 0.08% | (5) bps | 0.04% | (1) bps
+Allowance / loans held-in-portfolio | 0.76% | 0.79% | (3) bps | 0.79% | (3) bps
+Allowance / non-performing loans held-in-portfolio | 203% | 203% | —% | 186% | 17%
+During the third quarter of 2026, the Corporation’s overall credit quality remained stable. Consumer and mortgage portfolio
+performance remained favorable, with historically low net charge-offs (despite a slight seasonal increase in the auto
+portfolio), historically low delinquency levels, and net recoveries in the mortgage portfolio. Changes in commercial credit
+metrics during the quarter were driven by borrower-specific developments; core commercial portfolios continue to show
+stable credit trends.
+Non-Performing Loans ("NPLs") and Net Charge Offs ("NCOs")
+Total NPLs held-in-portfolio increased $52 million to $466 million during Q3 2026. Excluding consumer loans, inflows of
+NPLs held-in-portfolio decreased $56 million in the third quarter of 2026. The ratio of NPLs to total loans held in the portfolio
+was 1.16% for the third quarter of 2026, compared to 1.04% for the previous quarter. NPLs held-for-sale decreased $84
+million driven by the sale during Q3 of an NPL held-for-sale.
+NCO Ratio of 0.73% decreased 32 basis points when compared to the previous quarter. Total NCOs decreased by $31
+million quarter-over-quarter, reflecting lower commercial charge-offs.
+6
+BPPR segment - NPLs held-in-portfolio increased $54 million, primarily driven by a $52 million increase in commercial
+NPLs. The increase includes the inflow to NPL of a $74 million commercial and industrial ("C&I") loan, partially offset by a
+$34 million partial charge-off related to a commercial NPL that had entered non-performing status in the prior quarter. These
+events are considered borrower-specific and are not indicative of broader deterioration in the commercial portfolio. Excluding
+consumer loans, BPPR segment NPL inflows decreased $45 million compared to the prior quarter.
+NCOs decreased $30 million, primarily reflecting lower commercial charge-offs by $38 million. This variance resulted from
+the prior quarter, which included the resolution of a commercial relationship that resulted in a $71 million charge-off, partially
+offset by the previously mentioned commercial charge-off of $34 million in Q3 2026. NCO Ratio of 1.03% decreased 43
+basis points quarter-over-quarter.
+PB segment - NPLs held-in-portfolio decreased by $2 million, while inflows to NPLs, excluding consumer loans, decreased
+$11 million compared to the previous quarter. NCO Ratio of 0.03%, decreased five basis points during the quarter.
+Refer to table L for a breakdown of Non-Performing Assets.
+Allowance for loan losses ("ACL")
+The ACL as of September 30, 2026 amounted to $771 million, a decrease of $14 million when compared to the second
+quarter of 2026. The decline was driven primarily by improved consumer credit performance, in part offset by higher
+reserves for specific commercial exposures.
+BPPR segment - The ACL decreased by $11 million compared to the previous quarter, mostly driven by a $17 million
+decrease in reserves for consumer loans due to favorable changes in the credit composition of the auto and personal loans
+portfolios. These decreases were partially offset by higher reserves for commercial loans, mostly associated with C&I NPL
+inflows during the last two quarters, changes in macroeconomic scenarios and reserve build-up due to loan growth.
+PB segment - The ACL amounted to $89 million, a decrease of $3 million quarter-over-quarter, reflecting lower reserves for
+construction loans by $2 million, mostly due to lower loan volumes.
+Provision for credit losses
+Provision for loan losses of $59 million for the third quarter of 2026 decreased by $6 million when compared to the prior
+quarter, primarily driven by lower reserve requirements in the PB segment and favorable changes in the macroeconomic
+scenarios. Including the provision for unfunded loan commitments and the provision related to the Corporation’s investment
+portfolio, the provision for credit losses for the third quarter was $59 million.
+Refer to tables N, O, P and Q for more details on the Allowance for Credit Losses.
+BALANCE SHEET
+Quarters ended
+(In thousands) | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Cash and due from banks | $373,329 | $365,013 | $8,316 | $377,079 | $(3,750)
+Money market and investment securities | 34,287,567 | 35,820,187 | (1,532,620) | 33,126,064 | 1,161,503
+Loans | 40,042,656 | 39,749,862 | 292,794 | 38,687,158 | 1,355,498
+Total assets | 77,758,872 | 78,972,300 | (1,213,428) | 75,065,798 | 2,693,074
+Deposits | 68,704,991 | 70,233,115 | (1,528,124) | 66,513,404 | 2,191,587
+Borrowings | 1,325,246 | 1,462,831 | (137,585) | 1,246,807 | 78,439
+Total liabilities | 71,520,028 | 72,539,295 | (1,019,267) | 68,950,126 | 2,569,902
+Stockholders’ equity | 6,238,844 | 6,433,005 | (194,161) | 6,115,672 | 123,172
+Total assets - Total assets of $77.8 billion decreased $1.2 billion from the second quarter of 2026, primarily due to a $1.5
+billion decrease in money market and investment securities. The decrease resulted mainly from lower reinvestment of
+maturing U.S. Treasury securities in Q3 to fund scheduled P.R. public deposit outflows towards the end of the quarter. Loans
+held-in-portfolio increased $293 million, mainly due to an increase of $268 million in the BPPR segment across most
+portfolios and an increase of $25 million in the PB segment, primarily in commercial loans.
+Total liabilities - Total liabilities decreased $1.0 billion from the second quarter of 2026, mainly reflecting a $1.5 billion
+decrease in deposits, including $1.2 billion in P.R. public deposits as a result of operational needs and scheduled payment
+commitments, coupled with a $188 million decrease in short-term borrowings due to lower FHLB advances at PB. This was
+partially offset by a $646 million increase in other liabilities, primarily from U.S. Treasury purchases pending to be settled at
+period end.
+7
+Stockholders’ equity - Stockholders' equity decreased $194 million when compared to the second quarter of 2026, mainly
+driven by $255 million in unrealized losses on debt securities available-for-sale ("AFS"), $179 million of common stock
+repurchases, and $57 million of common and preferred dividends declared. This was offset by $266 million of net income
+and $31 million of amortization of unrealized losses on securities previously reclassified to held-to-maturity ("HTM"), net of
+tax.
+LOANS AND DEPOSITS BY CATEGORY
+Quarters ended 30-Sep-26
+(Dollars in thousands) | BPPR | % | PB | % | POPULAR | %
+Loans held-in-portfolio:
+Commercial multi-family | $344,761 | 1% | $2,052,220 | 17% | $2,396,981 | 6%
+Commercial real estate non-owner occupied | 3,407,255 | 12% | 2,435,485 | 21% | 5,842,740 | 15%
+Commercial real estate owner occupied | 1,205,279 | 4% | 2,206,921 | 19% | 3,412,200 | 9%
+Commercial and industrial | 6,090,151 | 22% | 2,618,907 | 23% | 8,709,058 | 22%
+Construction | 469,687 | 2% | 1,116,186 | 9% | 1,585,873 | 4%
+Mortgage | 7,645,377 | 27% | 1,214,808 | 10% | 8,860,185 | 22%
+Leasing | 1,952,125 | 7% | — | —% | 1,952,125 | 5%
+Consumer:
+Credit cards | 1,260,047 | 4% | 6 | —% | 1,260,053 | 3%
+Home equity lines of credit | 1,818 | —% | 86,788 | 1% | 88,606 | —%
+Personal | 1,942,250 | 7% | 52,010 | —% | 1,994,260 | 5%
+Auto | 3,756,459 | 13% | — | —% | 3,756,459 | 9%
+Other | 169,489 | 1% | 14,627 | —% | 184,116 | —%
+Total loans held-in-portfolio | $28,244,698 | 100% | $11,797,958 | 100% | $40,042,656 | 100%
+The Corporation maintained a diversified loan portfolio at September 30, 2026, with approximately 71% of loan balances in
+its main market of Puerto Rico and with 56% of its consolidated loan portfolio consisting of real estate-related loans,
+including residential mortgage loans, construction loans, commercial multi-family, and commercial loans secured by
+commercial real estate.
+Quarters ended 30-Sep-26
+(Dollars in thousands) | BPPR | % | PB [2] | % | POPULAR | %
+Non-public deposits:
+Demand deposits | $13,681,494 | 24% | $1,483,396 | 12% | $15,005,068 | 22%
+Savings, NOW and money market deposits (non- brokered) | 17,038,109 | 30% | 6,194,032 | 51% | 23,037,725 | 34%
+Savings, NOW and money market deposits (brokered) | 75,278 | —% | — | —% | 75,278 | —%
+Time deposits (non-brokered) | 4,646,473 | 8% | 3,583,416 | 30% | 8,227,389 | 12%
+Time deposits (brokered CDs) | — | —% | 893,371 | 7% | 893,371 | 1%
+Total Non-public deposits: | 35,441,354 | 62% | 12,154,215 | 100% | 47,238,831 | 69%
+P.R public deposits:
+Demand Deposits [1] | 11,033,195 | 19% | — | —% | 11,033,195 | 16%
+Savings, NOW and money market deposits (non-brokered) | 9,515,457 | 17% | — | —% | 9,515,457 | 14%
+Time deposits (non-brokered) | 917,508 | 2% | — | —% | 917,508 | 1%
+Total P.R. public deposits | 21,466,160 | 38% | — | —% | 21,466,160 | 31%
+Total deposits | $56,907,514 | 100% | $12,154,215 | 100% | $68,704,991 | 100%
+[1] Includes interest bearing demand deposits.
+[2] PB deposits include intercompany deposits, which are eliminated at the consolidated level.
+Total deposits were $68.7 billion as of the end of Q3 2026, reflecting a diversified funding base across retail, commercial and
+public sector.
+P.R. public deposits stood at $21.5 billion, representing 31% of total deposits. We expect P.R. public deposits to be in the
+range of $20-22 billion for the rest of the year.
+8
+CAPITAL POSITION
+Quarters ended
+(In thousands) | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25
+Capital Position
+Common equity per share | $98.94 | $100.38 | $(1.44) | $91.00 | $7.94
+Tangible common book value per common share (non-GAAP) [1] | $86.30 | $87.94 | $(1.64) | $79.12 | $7.18
+Tangible common book value to tangible assets (non-GAAP) [1] | 7.05% | 7.18% | -13 bps | 7.13% | -8 bps
+Return on average tangible common equity before adjusting for the impact of unrealized (gains) losses on AFS securities including those transferred to HTM (non-GAAP) [1] | 18.76% | 20.12% | -136 bps | 13.83% | 493 bps
+ROTCE (non-GAAP) [1] | 15.80% | 17.02% | -122 bps | 13.06% | 274 bps
+Regulatory Capital
+Common Equity Tier 1 capital | 16.06% | 16.08% | -2 bps | 15.79% | 27 bps
+Tier 1 capital | 16.12% | 16.13% | -1 bps | 15.84% | 28 bps
+Total capital | 17.84% | 17.85% | -1 bps | 17.58% | 26 bps
+Tier 1 leverage | 8.52% | 8.57% | -5 bps | 8.48% | 4 bps
+[1] Refer to Table R for the reconciliation to most comparable GAAP measures.
+The Corporation's Common Equity Tier 1 capital ratio was 16.06% at September 30, 2026, decreasing by two basis points
+when compared to Q2 2026, primarily driven by common stock repurchases, dividends, and change in risk weighted assets,
+partially offset by net income. Tangible common book value per common share decreased to $86.30, driven by higher
+unrealized losses on investment securities AFS, common stock repurchases and dividends, partially offset by net income for
+Q3. Common equity per share decreased to $98.94.
+Refer to Table A for capital ratios and Table R for a reconciliation of the non-GAAP financial measures presented above to
+the most comparable GAAP financial measures.
+Capital Actions – During the quarter and nine months ended September 30, 2026, Popular repurchased 1,060,241 shares
+of common stock for $179 million at an average price of $168.40 per share and 3,049,008 shares of common stock for $459
+million at an average price of $150.55 per share, respectively. Common stock repurchases and dividends on preferred and
+common stock combined represented capital returned to shareholders of $236 million during the quarter and $614 million
+for the nine months ended September 30, 2026.
+ROTCE (non-GAAP) – Return on average tangible common equity, adjusted to add-back unrealized (gains) losses on AFS
+securities, including those transferred to HTM (as so adjusted, "ROTCE"), decreased to 15.80% in Q3 2026, down from
+17.02% in Q2 2026. The Corporation has established a ROTCE annual target of 14% to 17%. We believe that adding back
+the impact of unrealized (gains) losses on AFS securities including those transferred to HTM to the denominator provides
+meaningful information about the Corporation’s return on capital.
+2026 FULL YEAR OUTLOOK
+Metric | Original FY 2026 Guidance | Updated Guidance | Commentary
+Net Interest Income | 5%-7% increase for the year | ~8.5% increase for the year | Unchanged
+Non-Interest Income | $160 million-$165 million per quarter | ~ $170 million in Q4 | Upper end of our Q2 guidance
+NCOs | 55 bps-70 bps annualized | 80 bps-90 bps annualized | Due to YTD charge-offs and NPL inflows in the commercial portfolio
+Operating Expenses | 3% increase for the year | 2% increase for the year | Guidance includes max profit sharing contribution
+Effective Tax Rate | 15%-17% for the year | 14% for the year | Lower end of our Q2 guidance
+Loan Growth | 3%-4% increase for the year | 2% increase for the year | Driven by a decline in auto and lease financing activity
+9
+NON-GAAP FINANCIAL MEASURES
+This press release contains financial information prepared under accounting principles generally accepted in the United
+States (“U.S. GAAP”) and non-GAAP financial measures. Management uses non-GAAP financial measures when it
+determines that these measures provide more meaningful information of the underlying performance of the ongoing
+operations. Non-GAAP financial measures used by the Corporation may not be comparable to similarly named non-GAAP
+financial measures used by other companies. Below are the non-GAAP measures used in this earnings release:
+•NII, NIM and loan yields on an FTE basis – Management believes that this presentation provides meaningful
+information since it facilitates the comparison of revenues, margin and yields arising from taxable and tax-exempt
+sources. NII FTE, NIM FTE and loan yields FTE are presented, together with their different components, as
+applicable, in Tables D and E for the quarter ended September 30, 2026 and F for the year to date ended
+September 30, 2026.
+•Tangible common equity – The tangible common equity ratio and tangible book value per common share are
+commonly used by banks and analysts in conjunction with more traditional bank capital ratios to compare the
+capital adequacy of banking organizations with significant amounts of goodwill or other intangible assets, typically
+stemming from the use of the purchase accounting method for mergers and acquisitions. Return on average
+tangible common equity is also a measure commonly used by banks and analysts to measure the return on that
+tangible common equity. We present return on average tangible common equity with and without the impact of
+unrealized (gains) losses on AFS securities including those transferred to HTM in the denominator because we
+believe that adding back the impact of unrealized (gains) losses on AFS securities, including those transferred to
+HTM, to the denominator provides meaningful information about the Corporation’s return on capital. Unless
+otherwise indicated, references to “ROTCE” in this press release means return on average tangible common equity
+as adjusted to add back unrealized (gains) losses on AFS securities, including those transferred to HTM. Neither
+tangible common equity nor tangible assets or related measures should be used in isolation or as a substitute for
+stockholders’ equity, total assets or any other measure calculated in accordance with GAAP.
+Refer to Table R for a reconciliation of total stockholders’ equity to tangible common equity and total assets to
+tangible assets.
+•Adjusted Net Income – Management believes that the “Adjusted net income” provides meaningful information
+about the underlying performance of the Corporation’s ongoing operations. There were no adjustments to net
+income for the quarter ended September 30, 2026 or June 30, 2026.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This press release contains “forward-looking statements” within the meaning of the U.S. Private Securities Litigation Reform
+Act of 1995, including without limitation those regarding Popular’s business, financial condition, results of operations, plans,
+objectives, outlook and future performance. These statements are not guarantees of future performance, are based on
+management’s current expectations and, by their nature, involve risks, uncertainties, estimates and assumptions. Potential
+factors, some of which are beyond the Corporation’s control, could cause actual results to differ materially from those
+expressed in, or implied by, such forward-looking statements. Risks and uncertainties include, without limitation, the effect of
+competitive and economic factors, and our reaction to those factors, the adequacy of the allowance for loan losses,
+delinquency trends, market risk and the impact of interest rate changes (including on our cost of deposits), our ability to
+attract deposits and grow our loan portfolio, capital market conditions, capital adequacy and liquidity, the effect of legal and
+regulatory proceedings, the receipt of necessary regulatory approvals, including for dividends by the Corporation’s
+subsidiaries, and the timing of those regulatory approvals, new regulatory requirements or accounting standards on the
+Corporation’s financial condition and results of operations, the occurrence of unforeseen or catastrophic events, such as
+extreme weather events, pandemics, man-made disasters or acts of violence or war, as well as actions taken by
+governmental authorities in response thereto, and the direct and indirect impact of such events on Popular, our customers,
+service providers and third parties. Other potential factors include Popular’s ability to successfully execute its transformation
+initiative, including, but not limited to, achieving projected earnings, efficiencies and return on tangible common equity and
+accurately anticipating costs and expenses associated therewith, our ability to execute capital actions, including with respect
+to share repurchases and dividends, the imposition of additional or special FDIC assessments, or increases thereto, the
+occurrence of any cyber-security event, changes to regulatory capital, liquidity and resolution-related requirements
+applicable to financial institutions, the impact of bank failures or adverse developments at other banks and related negative
+media coverage of the banking industry in general on investor and depositor sentiment regarding the stability and liquidity of
+banks, and changes in and uncertainty regarding federal funding, tax and trade policies, and rulemaking, supervision,
+examination and enforcement priorities of the federal administration. All statements contained herein that are not clearly
+historical in nature, are forward-looking, and the words “anticipate,” “believe,” “continues,” “expect,” “estimate,” “intend,”
+“project” and similar expressions, and future or conditional verbs such as “will,” “would,” “should,” “could,” “might,” “can,”
+“may” or similar expressions, are generally intended to identify forward-looking statements.
+10
+More information on the risks and important factors that could affect the Corporation’s future results and financial condition is
+included in our Form 10-K for the year ended December 31, 2025, our Form 10-Q for the quarter ended March 31, 2026, our
+Form 10-Q for the quarter ended June 30, 2026 and our Form 10-Q for the quarter ended September 30, 2026 to be filed
+with the Securities and Exchange Commission. Our filings are available on the Corporation’s website (www.popular.com)
+and on the Securities and Exchange Commission website (www.sec.gov). The Corporation assumes no obligation to update
+or revise any forward-looking statements or information which speak as of their respective dates.
+ABOUT POPULAR, INC.
+Popular, Inc. (NASDAQ: BPOP) is the leading financial institution in Puerto Rico, by both assets and deposits, and ranks
+among the top 50 U.S. bank holding companies by assets. Founded in 1893, Banco Popular de Puerto Rico, Popular’s
+principal subsidiary, provides retail, mortgage and commercial banking services in Puerto Rico and the U.S. and British
+Virgin Islands, as well as auto and equipment leasing and financing in Puerto Rico. Popular also offers broker-dealer and
+insurance services in Puerto Rico through specialized subsidiaries. In the mainland United States, Popular provides retail
+and commercial banking services through its New York-chartered banking subsidiary, Popular Bank, which has branches
+located in New York, New Jersey and Florida.
+CONFERENCE CALL
+Popular will hold a conference call to discuss its financial results today, Thursday, October 22, 2026 at 11:00 a.m. Eastern
+Time. The call will be broadcast live over the Internet and can be accessed through the Investor Relations section of the
+Corporation’s website: www.popular.com.
+Following the live webcast, a replay will be archived in the investor relations section of Popular’s website.
+11
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table A - Selected Ratios and Other Information
+Table B - Consolidated Statement of Operations
+Table C - Consolidated Statement of Financial Condition
+Table D - Analysis of Levels and Yields on a Taxable Equivalent Basis (Non-GAAP) - QUARTER
+Table E - Analysis of Levels and Yields on a Taxable Equivalent Basis (Non-GAAP) - QUARTER
+Table F - Analysis of Levels and Yields on a Taxable Equivalent Basis (Non-GAAP) - YEAR-TO-DATE
+Table G - Mortgage Banking Activities and Other Service Fees
+Table H - Consolidated Loans and Deposits
+Table I - Loan Delinquency - BPPR Operations
+Table J - Loan Delinquency - Popular U.S. Operations
+Table K - Loan Delinquency - Consolidated
+Table L - Non-Performing Assets
+Table M - Activity in Non-Performing Loans
+Table N - Allowance for Credit Losses, Net Charge-offs and Related Ratios
+Table O - Allowance for Credit Losses ‘‘ACL’’ - Loan Portfolios - BPPR Operations
+Table P - Allowance for Credit Losses ‘‘ACL’’ - Loan Portfolios - Popular U.S. Operations
+Table Q - Allowance for Credit Losses ‘‘ACL’’ - Loan Portfolios - Consolidated
+Table R - Reconciliation to GAAP Financial Measures
+12
+POPULAR, INC.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table A - Selected Ratios and Other Information
+(Unaudited)
+Quarters ended | Nine months ended
+30-Sep-26 | 30-Jun-26 | 30-Sep-25 | 30-Sep-26 | 30-Sep-25
+Basic EPS | $4.21 | $4.35 | $3.15 | $12.34 | $8.78
+Diluted EPS | $4.21 | $4.35 | $3.14 | $12.34 | $8.78
+Average common shares outstanding | 63,109,582 | 63,880,929 | 67,058,260 | 63,930,220 | 68,121,447
+Average common shares outstanding - assuming dilution | 63,137,983 | 63,915,634 | 67,095,421 | 63,958,522 | 68,143,888
+Common shares outstanding at end of period | 62,834,136 | 63,866,681 | 66,959,866 | 62,834,136 | 66,959,866
+Market value per common share | $155.45 | $164.18 | $129.10 | $155.45 | $129.10
+Market capitalization - (In millions) | $9,768 | $10,486 | $8,645 | $9,768 | $8,645
+Return on average assets | 1.32% | 1.41% | 1.09% | 1.34% | 1.06%
+Return on average common equity | 14.12% | 15.18% | 11.60% | 14.36% | 11.15%
+Net interest margin (non-taxable equivalent basis) | 3.63% | 3.66% | 3.51% | 3.65% | 3.46%
+Net interest margin (taxable equivalent basis) - non-GAAP | 4.16% | 4.17% | 3.90% | 4.16% | 3.83%
+Common equity per share | $98.94 | $100.38 | $91.00 | $98.94 | $91.00
+Tangible common book value per common share (non-GAAP) [1] | $86.30 | $87.94 | $79.12 | $86.30 | $79.12
+Tangible common equity to tangible assets (non-GAAP) [1] | 7.05% | 7.18% | 7.13% | 7.05% | 7.13%
+Return on average tangible common equity [1] | 15.80% | 17.02% | 13.06% | 16.10% | 12.57%
+Tier 1 capital | 16.12% | 16.13% | 15.84% | 16.12% | 15.84%
+Total capital | 17.84% | 17.85% | 17.58% | 17.84% | 17.58%
+Tier 1 leverage | 8.52% | 8.57% | 8.48% | 8.52% | 8.48%
+Common Equity Tier 1 capital | 16.06% | 16.08% | 15.79% | 16.06% | 15.79%
+[1]Refer to Table R for reconciliation to GAAP financial measures.
+13
+POPULAR, INC.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table B - Consolidated Statement of Operations
+(Unaudited)
+Quarters ended | Variance | Quarter ended | Variance | Nine months ended
+(In thousands, except per share information) | 30-Sep-26 | 30-Jun-26 | Δ vs 30-Jun-26 | 30-Sep-25 | Δ vs 30-Sep-25 | 30-Sep-26 | 30-Sep-25
+Interest income:
+Loans | $725,035 | $714,266 | $10,769 | $702,039 | $22,996 | $2,141,450 | $2,053,299
+Money market investments | 45,868 | 47,021 | (1,153) | 66,867 | (20,999) | 137,129 | 206,565
+Investment securities | 235,870 | 220,352 | 15,518 | 197,743 | 38,127 | 657,049 | 567,655
+Total interest income | 1,006,773 | 981,639 | 25,134 | 966,649 | 40,124 | 2,935,628 | 2,827,519
+Interest expense:
+Deposits | 289,185 | 271,254 | 17,931 | 303,432 | (14,247) | 819,857 | 896,353
+Short-term borrowings | 6,881 | 5,172 | 1,709 | 4,616 | 2,265 | 17,756 | 11,342
+Long-term debt | 11,777 | 11,794 | (17) | 12,096 | (319) | 35,486 | 36,173
+Total interest expense | 307,843 | 288,220 | 19,623 | 320,144 | (12,301) | 873,099 | 943,868
+Net interest income | 698,930 | 693,419 | 5,511 | 646,505 | 52,425 | 2,062,529 | 1,883,651
+Provision for credit losses | 58,593 | 65,873 | (7,280) | 75,125 | (16,532) | 200,352 | 188,147
+Net interest income after provision for credit losses | 640,337 | 627,546 | 12,791 | 571,380 | 68,957 | 1,862,177 | 1,695,504
+Service charges on deposit accounts | 37,106 | 39,037 | (1,931) | 39,077 | (1,971) | 114,909 | 116,957
+Other service fees | 110,584 | 108,792 | 1,792 | 101,376 | 9,208 | 322,297 | 296,406
+Mortgage banking activities | 4,852 | 6,267 | (1,415) | 2,771 | 2,081 | 15,332 | 11,332
+Net loss, including impairment, on debt securities | — | (595) | 595 | — | — | (595) | —
+Net (loss) gain, including impairment, on equity securities | (1,746) | 2,327 | (4,073) | 2,197 | (3,943) | 1,610 | 3,645
+Net (loss) gain on trading account debt securities | (792) | 214 | (1,006) | 398 | (1,190) | (317) | 1,456
+Adjustments to indemnity reserves on loans sold | 158 | 394 | (236) | 36 | 122 | 587 | 329
+Other operating income | 25,496 | 24,109 | 1,387 | 25,340 | 156 | 68,006 | 61,608
+Total non-interest income | 175,658 | 180,545 | (4,887) | 171,195 | 4,463 | 521,829 | 491,733
+Operating expenses:
+Personnel costs
+Salaries | 141,357 | 134,448 | 6,909 | 139,350 | 2,007 | 410,618 | 403,052
+Commissions, incentives and other bonuses | 42,709 | 39,911 | 2,798 | 35,309 | 7,400 | 117,523 | 113,846
+Profit sharing | 15,097 | 10,000 | 5,097 | 13,000 | 2,097 | 23,894 | 26,000
+Pension, postretirement and medical insurance | 18,446 | 18,773 | (327) | 18,749 | (303) | 52,115 | 51,773
+Other personnel costs, including payroll taxes | 27,461 | 25,899 | 1,562 | 26,580 | 881 | 86,020 | 80,385
+Total personnel costs | 245,070 | 229,031 | 16,039 | 232,988 | 12,082 | 690,170 | 675,056
+Net occupancy expenses | 29,157 | 27,764 | 1,393 | 26,083 | 3,074 | 84,220 | 82,441
+Equipment expenses | 6,324 | 5,879 | 445 | 5,313 | 1,011 | 17,432 | 16,404
+Other taxes | 17,665 | 17,707 | (42) | 17,967 | (302) | 53,049 | 55,324
+Professional fees | 25,587 | 24,484 | 1,103 | 25,808 | (221) | 75,624 | 80,741
+Technology and software expenses | 90,068 | 90,971 | (903) | 87,117 | 2,951 | 270,178 | 255,481
+Processing and transactional services
+Credit and debit cards | 15,498 | 13,236 | 2,262 | 14,728 | 770 | 42,940 | 40,698
+Other processing and transactional services | 24,172 | 24,030 | 142 | 23,680 | 492 | 73,083 | 73,352
+Total processing and transactional services | 39,670 | 37,266 | 2,404 | 38,408 | 1,262 | 116,023 | 114,050
+Communications | 4,562 | 4,261 | 301 | 4,836 | (274) | 13,332 | 14,750
+Business promotion
+Rewards and customer loyalty programs | 19,045 | 19,600 | (555) | 17,656 | 1,389 | 54,037 | 52,068
+Other business promotion | 9,383 | 8,300 | 1,083 | 9,648 | (265) | 25,151 | 25,296
+Total business promotion | 28,428 | 27,900 | 528 | 27,304 | 1,124 | 79,188 | 77,364
+Deposit insurance | 9,692 | 9,977 | (285) | 10,873 | (1,181) | 29,586 | 30,315
+14
+Other real estate owned (OREO) income | (3,733) | (3,238) | (495) | (3,408) | (325) | (11,589) | (10,862)
+Other operating expenses
+Operational losses | 1,895 | 3,118 | (1,223) | 1,634 | 261 | 8,988 | 13,957
+All other | 10,821 | 8,626 | 2,195 | 6,980 | 3,841 | 29,677 | 39,673
+Total other operating expenses | 12,716 | 11,744 | 972 | 8,614 | 4,102 | 38,665 | 53,630
+Amortization of intangibles | 384 | 384 | — | 384 | — | 1,152 | 1,366
+Goodwill impairment | — | — | — | 13,000 | (13,000) | — | 13,000
+Total operating expenses | 505,590 | 484,130 | 21,460 | 495,287 | 10,303 | 1,457,030 | 1,459,060
+Income before income tax | 310,405 | 323,961 | (13,556) | 247,288 | 63,117 | 926,976 | 728,177
+Income tax expense | 44,071 | 45,747 | (1,676) | 35,971 | 8,100 | 136,754 | 128,918
+Net income | $266,334 | $278,214 | $(11,880) | $211,317 | $55,017 | $790,222 | $599,259
+Net income applicable to common stock | $265,981 | $277,861 | $(11,880) | $210,964 | $55,017 | $789,163 | $598,200
+Net income per common share - basic | $4.21 | $4.35 | $(0.14) | $3.15 | $1.06 | $12.34 | $8.78
+Net income per common share - diluted | $4.21 | $4.35 | $(0.14) | $3.14 | $1.07 | $12.34 | $8.78
+Dividends Declared per Common Share | $0.90 | $0.75 | $0.15 | $0.75 | $0.15 | $2.40 | $2.15
+15
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table C - Consolidated Statement of Financial Condition
+(Unaudited)
+Quarters ended | Variance
+(In thousands) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25 | Δ vs 30-Jun-26
+Assets:
+Cash and due from banks | $373,329 | $365,013 | $377,079 | $8,316
+Money market investments | 5,112,689 | 4,555,489 | 4,754,391 | 557,200
+Trading account debt securities, at fair value | 30,704 | 31,170 | 33,122 | (466)
+Debt securities available-for-sale, at fair value | 23,427,860 | 24,792,834 | 20,686,423 | (1,364,974)
+Debt securities held-to-maturity, at amortized cost | 5,489,378 | 6,204,020 | 7,433,135 | (714,642)
+Less: Allowance for credit losses | 6,057 | 6,230 | 5,837 | (173)
+Debt securities held-to-maturity, net | 5,483,321 | 6,197,790 | 7,427,298 | (714,469)
+Equity securities | 226,936 | 236,674 | 218,993 | (9,738)
+Loans held-for-sale, at lower of cost or fair value | 3,214 | 88,579 | 7,783 | (85,365)
+Loans held-in-portfolio | 40,441,556 | 40,156,582 | 39,111,956 | 284,974
+Less: Unearned income | 398,900 | 406,720 | 424,798 | (7,820)
+Allowance for credit losses | 770,687 | 784,832 | 786,220 | (14,145)
+Total loans held-in-portfolio, net | 39,271,969 | 38,965,030 | 37,900,938 | 306,939
+Premises and equipment, net | 746,190 | 731,945 | 679,651 | 14,245
+Other real estate | 44,299 | 49,557 | 42,950 | (5,258)
+Accrued income receivable | 319,724 | 307,251 | 297,347 | 12,473
+Mortgage servicing rights, at fair value | 93,373 | 94,485 | 99,523 | (1,112)
+Other assets | 1,831,386 | 1,762,221 | 1,744,886 | 69,165
+Goodwill | 789,954 | 789,954 | 789,954 | —
+Other intangible assets | 3,924 | 4,308 | 5,460 | (384)
+Total assets | $77,758,872 | $78,972,300 | $75,065,798 | $(1,213,428)
+Liabilities and Stockholders’ Equity:
+Liabilities:
+Deposits:
+Non-interest bearing | $15,010,570 | $15,096,293 | $14,874,026 | $(85,723)
+Interest bearing | 53,694,421 | 55,136,822 | 51,639,378 | (1,442,401)
+Total deposits | 68,704,991 | 70,233,115 | 66,513,404 | (1,528,124)
+Assets sold under agreements to repurchase | 152,321 | 77,521 | 56,853 | 74,800
+Other short-term borrowings | 486,697 | 675,000 | 400,000 | (188,303)
+Notes payable | 686,228 | 710,310 | 789,954 | (24,082)
+Other liabilities | 1,489,791 | 843,349 | 1,189,915 | 646,442
+Total liabilities | 71,520,028 | 72,539,295 | 68,950,126 | (1,019,267)
+Stockholders’ equity:
+Preferred stock | 22,143 | 22,143 | 22,143 | —
+Common stock | 1,050 | 1,050 | 1,049 | —
+Surplus | 4,940,043 | 4,937,091 | 4,920,767 | 2,952
+Retained earnings | 5,841,950 | 5,632,866 | 5,022,546 | 209,084
+Treasury stock | (3,181,178) | (3,000,759) | (2,574,573) | (180,419)
+Accumulated other comprehensive loss, net of tax | (1,385,164) | (1,159,386) | (1,276,260) | (225,778)
+Total stockholders’ equity | 6,238,844 | 6,433,005 | 6,115,672 | (194,161)
+Total liabilities and stockholders’ equity | $77,758,872 | $78,972,300 | $75,065,798 | $(1,213,428)
+16
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table D - Analysis of Levels and Yields on a Taxable Equivalent Basis (Non-GAAP)
+For the quarters ended September 30, 2026 and June 30, 2026
+(Unaudited)
+Average Volume | Average Yields / Costs | Interest | Variance Attributable to
+30- Sep-26 | 30-Jun-26 | Variance | 30- Sep-26 | 30-Jun-26 | Variance | 30-Sep-26 | 30-Jun-26 | Variance | Rate | Volume
+(In millions) | (In thousands)
+$4,854 | $5,095 | $(241) | 3.75% | 3.70% | 0.05% | Money market investments | $45,868 | $47,021 | $(1,153) | $1,109 | $(2,262)
+31,761 | 31,091 | 670 | 3.82 | 3.69 | 0.13 | Investment securities [1] | 305,829 | 286,115 | 19,714 | 8,707 | 11,007
+35 | 32 | 3 | 5.43 | 5.76 | (0.33) | Trading securities | 478 | 454 | 24 | (22) | 46
+36,650 | 36,218 | 432 | 3.82 | 3.69 | 0.13 | Total money market, investment and trading securities | 352,175 | 333,590 | 18,585 | 9,794 | 8,791
+Loans:
+20,154 | 19,932 | 222 | 6.82 | 6.73 | 0.09 | Commercial | 346,528 | 334,494 | 12,034 | 8,289 | 3,745
+1,680 | 1,764 | (84) | 7.80 | 7.90 | (0.10) | Construction | 33,029 | 34,729 | (1,700) | (45) | (1,655)
+1,949 | 1,970 | (21) | 7.41 | 7.45 | (0.04) | Leasing | 36,113 | 36,680 | (567) | (176) | (391)
+8,809 | 8,732 | 77 | 6.17 | 6.15 | 0.02 | Mortgage | 135,960 | 134,236 | 1,724 | 536 | 1,188
+3,382 | 3,310 | 72 | 13.54 | 13.74 | (0.20) | Consumer | 115,388 | 113,356 | 2,032 | (398) | 2,430
+3,846 | 3,867 | (21) | 9.31 | 9.32 | (0.01) | Auto | 90,287 | 89,901 | 386 | 884 | (498)
+39,820 | 39,575 | 245 | 7.56 | 7.53 | 0.03 | Total loans | 757,305 | 743,396 | 13,909 | 9,090 | 4,819
+$76,470 | $75,793 | $677 | 5.76% | 5.70% | 0.06% | Total earning assets | $1,109,480 | $1,076,986 | $32,494 | $18,884 | $13,610
+Interest bearing deposits:
+$8,790 | $8,819 | $(29) | 1.68% | 1.69% | (0.01)% | NOW and money market | $37,141 | $37,237 | $(96) | $589 | $(685)
+14,537 | 14,817 | (280) | 0.79 | 0.78 | 0.01 | Savings | 28,909 | 28,640 | 269 | 755 | (486)
+8,959 | 8,907 | 52 | 3.01 | 2.95 | 0.06 | Time deposits | 67,988 | 65,411 | 2,577 | 2,126 | 451
+22,623 | 21,502 | 1,121 | 2.72 | 2.61 | 0.11 | P.R. public deposits | 155,147 | 139,966 | 15,181 | 7,271 | 7,910
+54,909 | 54,045 | 864 | 2.09 | 2.01 | 0.08 | Total interest bearing deposits | 289,185 | 271,254 | 17,931 | 10,741 | 7,190
+14,906 | 15,268 | (362) | Non-interest bearing demand deposits
+69,815 | 69,313 | 502 | 1.64 | 1.57 | 0.07 | Total deposits | 289,185 | 271,254 | 17,931 | 10,741 | 7,190
+693 | 539 | 154 | 3.94 | 3.85 | 0.09 | Short-term borrowings | 6,881 | 5,172 | 1,709 | 196 | 1,513
+718 | 741 | (23) | 6.51 | 6.38 | 0.13 | Other medium and long- term debt | 11,777 | 11,794 | (17) | 358 | (375)
+56,320 | 55,325 | 995 | 2.17 | 2.09 | 0.08 | Total interest bearing liabilities (excluding demand deposits) | 307,843 | 288,220 | 19,623 | 11,295 | 8,328
+5,244 | 5,200 | 44 | Other sources of funds
+$76,470 | $75,793 | $677 | 1.60% | 1.53% | 0.07% | Total source of funds | $307,843 | $288,220 | $19,623 | $11,295 | $8,328
+4.16% | 4.17% | (0.01)% | Net interest margin/ income on a taxable equivalent basis (Non- GAAP) | $801,637 | $788,766 | $12,871 | $7,589 | $5,282
+3.59% | 3.61% | (0.02)% | Net interest spread
+Taxable equivalent adjustment | 102,707 | 95,347 | 7,360
+3.63% | 3.66% | (0.03)% | Net interest margin/ income non-taxable equivalent basis (GAAP) | $698,930 | $693,419 | $5,511
+Note: The changes that are not due solely to volume or rate are allocated to volume and rate based on the proportion of the change in each category.
+[1]Average balances exclude unrealized gains or losses on debt securities available-for-sale and the unrealized loss related to certain securities transferred
+from available-for-sale to held-to-maturity.
+17
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table E - Analysis of Levels and Yields on a Taxable Equivalent Basis (Non-GAAP)
+For the quarters ended September 30, 2026 and September 30, 2025
+(Unaudited)
+Average Volume | Average Yields / Costs | Interest | Variance Attributable to
+30- Sep-26 | 30- Sep-25 | Variance | 30- Sep-26 | 30- Sep-25 | Variance | 30-Sep-26 | 30-Sep-25 | Variance | Rate | Volume
+(In millions) | (In thousands)
+$4,854 | $5,990 | $(1,136) | 3.75% | 4.43% | (0.68)% | Money market investments | $45,868 | $66,867 | $(20,999) | $(9,397) | $(11,602)
+31,761 | 28,957 | 2,804 | 3.82 | 3.42 | 0.40 | Investment securities [1] | 305,829 | 249,071 | 56,758 | 22,570 | 34,188
+35 | 28 | 7 | 5.43 | 5.43 | — | Trading securities | 478 | 391 | 87 | — | 87
+36,650 | 34,975 | 1,675 | 3.82 | 3.59 | 0.23 | Total money market, investment and trading securities | 352,175 | 316,329 | 35,846 | 13,173 | 22,673
+Loans:
+20,154 | 19,229 | 925 | 6.82 | 6.72 | 0.10 | Commercial | 346,528 | 325,869 | 20,659 | 4,809 | 15,850
+1,680 | 1,549 | 131 | 7.80 | 8.24 | (0.44) | Construction | 33,029 | 32,184 | 845 | (1,793) | 2,638
+1,949 | 1,981 | (32) | 7.41 | 7.26 | 0.15 | Leasing | 36,113 | 35,957 | 156 | 751 | (595)
+8,809 | 8,484 | 325 | 6.17 | 5.96 | 0.21 | Mortgage | 135,960 | 126,352 | 9,608 | 4,670 | 4,938
+3,382 | 3,257 | 125 | 13.54 | 13.80 | (0.26) | Consumer | 115,388 | 113,280 | 2,108 | (1,965) | 4,073
+3,846 | 3,945 | (99) | 9.31 | 9.15 | 0.16 | Auto | 90,287 | 91,006 | (719) | 1,581 | (2,300)
+39,820 | 38,445 | 1,375 | 7.56 | 7.49 | 0.07 | Total loans | 757,305 | 724,648 | 32,657 | 8,053 | 24,604
+$76,470 | $73,420 | $3,050 | 5.76% | 5.63% | 0.13% | Total earning assets | $1,109,480 | $1,040,977 | $68,503 | $21,226 | $47,277
+Interest bearing deposits:
+$8,790 | $8,184 | $606 | 1.68% | 1.77% | (0.09)% | NOW and money market | $37,141 | $36,421 | $720 | $(2,252) | $2,972
+14,537 | 14,529 | 8 | 0.79 | 0.81 | (0.02) | Savings | 28,909 | 29,772 | (863) | (100) | (763)
+8,959 | 8,825 | 134 | 3.01 | 3.16 | (0.15) | Time deposits | 67,988 | 70,196 | (2,208) | (2,947) | 739
+22,623 | 20,766 | 1,857 | 2.72 | 3.19 | (0.47) | P.R. public deposits | 155,147 | 167,043 | (11,896) | (25,359) | 13,463
+54,909 | 52,304 | 2,605 | 2.09 | 2.30 | (0.21) | Total interest bearing deposits | 289,185 | 303,432 | (14,247) | (30,658) | 16,411
+14,906 | 14,846 | 60 | Non-interest bearing demand deposits
+69,815 | 67,150 | 2,665 | 1.64 | 1.79 | (0.15) | Total deposits | 289,185 | 303,432 | (14,247) | (30,658) | 16,411
+693 | 405 | 288 | 3.94 | 4.52 | (0.58) | Short-term borrowings | 6,881 | 4,616 | 2,265 | (653) | 2,918
+718 | 812 | (94) | 6.51 | 5.98 | 0.53 | Other medium and long- term debt | 11,777 | 12,096 | (319) | 1,194 | (1,513)
+56,320 | 53,521 | 2,799 | 2.17 | 2.37 | (0.20) | Total interest bearing liabilities (excluding demand deposits) | 307,843 | 320,144 | (12,301) | (30,117) | 17,816
+5,244 | 5,053 | 191 | Other sources of funds
+$76,470 | $73,420 | $3,050 | 1.60% | 1.73% | (0.13)% | Total source of funds | $307,843 | $320,144 | $(12,301) | $(30,117) | $17,816
+4.16% | 3.90% | 0.26% | Net interest margin/ income on a taxable equivalent basis (Non- GAAP) | $801,637 | $720,833 | $80,804 | $51,343 | $29,461
+3.59% | 3.26% | 0.33% | Net interest spread
+Taxable equivalent adjustment | 102,707 | 74,328 | 28,379
+3.63% | 3.51% | 0.12% | Net interest margin/ income non-taxable equivalent basis (GAAP) | $698,930 | $646,505 | $52,425
+Note: The changes that are not due solely to volume or rate are allocated to volume and rate based on the proportion of the change in each category.
+[1]Average balances exclude unrealized gains or losses on debt securities available-for-sale and the unrealized loss related to certain securities transferred
+from available-for-sale to held-to-maturity.
+18
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table F - Analysis of Levels and Yields on a Taxable Equivalent Basis (Non-GAAP) - YEAR-TO-DATE
+(Unaudited)
+Average Volume | Average Yields / Costs | Interest | Variance Attributable to
+30-Sep-26 | 30-Sep-25 | Variance | 30- Sep-26 | 30- Sep-25 | Variance | 30-Sep-26 | 30-Sep-25 | Variance | Rate | Volume
+(In millions) | (In thousands)
+$4,933 | $6,205 | $(1,272) | 3.72% | 4.45% | (0.73)% | Money market investments | $137,129 | $206,565 | $(69,436) | $(30,967) | $(38,469)
+30,894 | 28,729 | 2,165 | 3.68 | 3.28 | 0.40 | Investment securities [1] | 850,841 | 705,879 | 144,962 | 87,165 | 57,797
+33 | 29 | 4 | 5.58 | 5.74 | (0.16) | Trading securities | 1,394 | 1,237 | 157 | (37) | 194
+35,860 | 34,963 | 897 | 3.69 | 3.49 | 0.20 | Total money market, investment and trading securities | 989,364 | 913,681 | 75,683 | 56,161 | 19,522
+Loans:
+19,938 | 18,802 | 1,136 | 6.76 | 6.72 | 0.04 | Commercial | 1,007,409 | 945,330 | 62,079 | 4,699 | 57,380
+1,714 | 1,440 | 274 | 7.94 | 8.19 | (0.25) | Construction | 101,825 | 88,179 | 13,646 | (2,676) | 16,322
+1,968 | 1,961 | 7 | 7.40 | 7.18 | 0.22 | Leasing | 109,252 | 105,650 | 3,602 | 3,239 | 363
+8,736 | 8,331 | 405 | 6.13 | 5.89 | 0.24 | Mortgage | 401,875 | 368,141 | 33,734 | 15,467 | 18,267
+3,334 | 3,224 | 110 | 13.71 | 14.10 | (0.39) | Consumer | 341,874 | 339,880 | 1,994 | (9,009) | 11,003
+3,868 | 3,935 | (67) | 9.32 | 9.00 | 0.32 | Auto | 269,685 | 264,905 | 4,780 | 9,292 | (4,512)
+39,558 | 37,693 | 1,865 | 7.54 | 7.49 | 0.05 | Total loans | 2,231,920 | 2,112,085 | 119,835 | 21,012 | 98,823
+$75,418 | $72,656 | $2,762 | 5.71% | 5.57% | 0.14% | Total earning assets | $3,221,284 | $3,025,766 | $195,518 | $77,173 | $118,345
+Interest bearing deposits:
+$8,722 | $8,077 | $645 | 1.66% | 1.73% | (0.07)% | NOW and money market | $108,537 | $104,711 | $3,826 | $(8,150) | $11,976
+14,662 | 14,547 | 115 | 0.78 | 0.84 | (0.06) | Savings | 85,262 | 91,430 | (6,168) | (3,378) | (2,790)
+8,861 | 8,587 | 274 | 2.98 | 3.17 | (0.19) | Time deposits | 197,643 | 203,909 | (6,266) | (12,640) | 6,374
+21,504 | 20,464 | 1,040 | 2.66 | 3.24 | (0.58) | P.R public deposits | 428,415 | 496,303 | (67,888) | (90,826) | 22,938
+53,749 | 51,675 | 2,074 | 2.04 | 2.32 | (0.28) | Total interest bearing deposits | 819,857 | 896,353 | (76,496) | (114,994) | 38,498
+15,091 | 14,778 | 313 | Non-interest bearing demand deposits
+68,840 | 66,453 | 2,387 | 1.59 | 1.80 | (0.21) | Total deposits | 819,857 | 896,353 | (76,496) | (114,994) | 38,498
+610 | 333 | 277 | 3.89 | 4.55 | (0.66) | Short-term borrowings | 17,756 | 11,342 | 6,414 | (1,830) | 8,244
+743 | 835 | (92) | 6.38 | 5.79 | 0.59 | Other medium and long- term debt | 35,486 | 36,173 | (687) | 3,668 | (4,355)
+55,102 | 52,843 | 2,259 | 2.12 | 2.39 | (0.27) | Total interest bearing liabilities (excluding demand deposits) | 873,099 | 943,868 | (70,769) | (113,156) | 42,387
+5,225 | 5,035 | 190 | Other sources of funds
+$75,418 | $72,656 | $2,762 | 1.55% | 1.74% | (0.19)% | Total source of funds | $873,099 | $943,868 | $(70,769) | $(113,156) | $42,387
+4.16% | 3.83% | 0.33% | Net interest margin/ income on a taxable equivalent basis (Non- GAAP) | $2,348,185 | $2,081,898 | $266,287 | $190,329 | $75,958
+3.59% | 3.18% | 0.41% | Net interest spread
+Taxable equivalent adjustment | 285,656 | 198,247 | 87,409
+3.65% | 3.46% | 0.19% | Net interest margin/ income non-taxable equivalent basis (GAAP) | $2,062,529 | $1,883,651 | $178,878
+Note: The changes that are not due solely to volume or rate are allocated to volume and rate based on the proportion of the change in each category.
+[1]Average balances exclude unrealized gains or losses on debt securities available-for-sale and the unrealized loss related to certain securities transferred
+from available-for-sale to held-to-maturity.
+19
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table G - Mortgage Banking Activities and Other Service Fees
+(Unaudited)
+Mortgage Banking Activities
+Quarters ended | Variance | Nine months ended
+(In thousands) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25 | Δ vs 30 - Jun-26 | Δ vs 30- Sep-25 | 30-Sep-26 | 30-Sep-25 | Δ vs 30- Sep -25
+Mortgage servicing fees, net of fair value adjustments:
+Mortgage servicing fees | $6,173 | $6,416 | $6,744 | $(243) | $(571) | $19,072 | $20,824 | $(1,752)
+Mortgage servicing rights fair value adjustments | (1,497) | (232) | (3,835) | (1,265) | 2,338 | (4,368) | (9,359) | 4,991
+Total mortgage servicing fees, net of fair value adjustments | 4,676 | 6,184 | 2,909 | (1,508) | 1,767 | 14,704 | 11,465 | 3,239
+Net (loss) gain on sale of loans, including valuation on loans held-for-sale | (17) | 159 | (53) | (176) | 36 | 460 | 103 | 357
+Trading account (loss) profit:
+Unrealized (losses) gains on outstanding derivative positions | 124 | (52) | 51 | 176 | 73 | 147 | (44) | 191
+Realized (losses) gains on closed derivative positions | 69 | 13 | (122) | 56 | 191 | 63 | (131) | 194
+Total trading account (loss) profit | 193 | (39) | (71) | 232 | 264 | 210 | (175) | 385
+Losses on repurchased loans, including interest advances | — | (37) | (14) | 37 | 14 | (42) | (61) | 19
+Total mortgage banking activities | $4,852 | $6,267 | $2,771 | $(1,415) | $2,081 | $15,332 | $11,332 | $4,000
+Other Service Fees
+Quarters ended | Variance | Nine months ended
+(In thousands) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25 | Δ vs 30- Jun-26 | Δ vs 30- Sept-25 | 30-Sep-26 | 30-Sep-25 | Δ vs 30- Sep-25
+Other service fees:
+Debit card fees | $30,841 | $31,538 | $28,084 | $(697) | $2,757 | $92,388 | $82,434 | $9,954
+Insurance fees | 12,893 | 12,586 | 12,995 | 307 | (102) | 38,004 | 36,999 | 1,005
+Credit card fees | 35,270 | 34,783 | 32,668 | 487 | 2,602 | 102,054 | 95,300 | 6,754
+Sale and administration of investment products | 11,007 | 9,998 | 9,459 | 1,009 | 1,548 | 31,192 | 27,490 | 3,702
+Trust fees | 7,911 | 7,751 | 6,998 | 160 | 913 | 23,001 | 19,924 | 3,077
+Other fees | 12,662 | 12,136 | 11,172 | 526 | 1,490 | 35,658 | 34,259 | 1,399
+Total other service fees | $110,584 | $108,792 | $101,376 | $1,792 | $9,208 | $322,297 | $296,406 | $25,891
+20
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table H - Consolidated Loans and Deposits
+(Unaudited)
+Loans - Ending Balances
+Quarters ended | Variance
+(Dollars in thousands) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25 | Δ vs 30- Jun-26 | % of Change | Δ vs 30- Sep-25 | % of Change
+Loans held-in-portfolio:
+Commercial
+Commercial multi-family | $2,396,981 | $2,399,424 | $2,489,589 | $(2,443) | (0.10%) | $(92,608) | (3.72%)
+Commercial real estate non- owner occupied | 5,842,740 | 5,620,875 | 5,462,580 | 221,865 | 3.95% | 380,160 | 6.96%
+Commercial real estate owner occupied | 3,412,200 | 3,256,702 | 3,090,724 | 155,498 | 4.77% | 321,476 | 10.40%
+Commercial and industrial | 8,709,058 | 8,774,084 | 8,245,639 | (65,026) | (0.74%) | 463,419 | 5.62%
+Total Commercial | 20,360,979 | 20,051,085 | 19,288,532 | 309,894 | 1.55% | 1,072,447 | 5.56%
+Construction | 1,585,873 | 1,732,075 | 1,604,612 | (146,202) | (8.44%) | (18,739) | (1.17%)
+Mortgage | 8,860,185 | 8,780,334 | 8,558,408 | 79,851 | 0.91% | 301,777 | 3.53%
+Leasing | 1,952,125 | 1,968,035 | 1,998,651 | (15,910) | (0.81%) | (46,526) | (2.33%)
+Consumer
+Credit cards | 1,260,053 | 1,237,997 | 1,225,567 | 22,056 | 1.78% | 34,486 | 2.81%
+Home equity lines of credit | 88,606 | 85,357 | 78,890 | 3,249 | 3.81% | 9,716 | 12.32%
+Personal | 1,994,260 | 1,952,725 | 1,900,325 | 41,535 | 2.13% | 93,935 | 4.94%
+Auto | 3,756,459 | 3,766,648 | 3,850,953 | (10,189) | (0.27%) | (94,494) | (2.45%)
+Other | 184,116 | 175,606 | 181,220 | 8,510 | 4.85% | 2,896 | 1.60%
+Total Consumer | 7,283,494 | 7,218,333 | 7,236,955 | 65,161 | 0.90% | 46,539 | 0.64%
+Total loans held-in-portfolio | $40,042,656 | $39,749,862 | $38,687,158 | $292,794 | 0.74% | $1,355,498 | 3.50%
+Loans held-for-sale:
+Commercial | $— | $83,700 | $— | $(83,700) | —% | $— | —%
+Mortgage | $3,214 | $4,879 | $7,783 | $(1,665) | (34.13%) | $(4,569) | (58.70%)
+Total loans held-for-sale | $3,214 | $88,579 | $7,783 | $(85,365) | (96.37%) | $(4,569) | (58.70%)
+Total loans | $40,045,870 | $39,838,441 | $38,694,941 | $207,429 | 0.52% | $1,350,929 | 3.49%
+Deposits - Ending Balances
+Quarters ended | Variance
+(In thousands) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25 [2] | Δ vs 30- Jun-26 | % of Change | Δ vs 30- Sep-25 | % of Change
+Deposits excluding P.R. public deposits:
+Demand deposits | $15,005,068 | $15,085,454 | $14,874,026 | $(80,386) | (0.53%) | $131,042 | 0.88%
+Savings, NOW and money market deposits (non-brokered) | 23,037,725 | 23,376,410 | 22,538,837 | (338,685) | (1.45%) | 498,888 | 2.21%
+Savings, NOW and money market deposits (brokered) | 75,278 | 79,505 | 84,592 | (4,227) | (5.32%) | (9,314) | (11.01%)
+Time deposits (non-brokered) | 8,227,389 | 8,113,712 | 8,113,659 | 113,677 | 1.40% | 113,730 | 1.40%
+Time deposits (brokered CDs) | 893,371 | 873,116 | 826,182 | 20,255 | 2.32% | 67,189 | 8.13%
+Sub-total deposits excluding P.R. public deposits | 47,238,831 | 47,528,197 | 46,437,296 | (289,366) | (0.61%) | 801,535 | 1.73%
+P.R. public deposits:
+Demand deposits [1] | 11,033,195 | 11,438,732 | 12,487,246 | (405,537) | (3.55%) | (1,454,051) | (11.64%)
+Savings, NOW and money market deposits (non-brokered) | 9,515,457 | 10,347,936 | 6,907,309 | (832,479) | (8.04%) | 2,608,148 | 37.76%
+Time deposits (non-brokered) | 917,508 | 918,250 | 681,553 | (742) | (0.08%) | 235,955 | 34.62%
+Sub-total P.R. public deposits | 21,466,160 | 22,704,918 | 20,076,108 | (1,238,758) | (5.46%) | 1,390,052 | 6.92%
+Total deposits | $68,704,991 | $70,233,115 | $66,513,404 | $(1,528,124) | (2.18%) | $2,191,587 | 3.29%
+[1] Includes interest bearing demand deposits.
+[2] Savings, NOW and money market deposits include reciprocal deposits of $844 million as of September 30, 2026 (June 30, 2026 - $841 million;
+September 30, 2025 - $799 million) that were categorized as brokered deposits during 2025 and re-characterized as non-brokered in 2026. Similarly, Time
+deposits include reciprocal deposits of $88 million as of September 30, 2026 (June 30, 2026 - $75 million; September 30, 2025 - $100 million) that were
+categorized as brokered deposits during 2025 and re-characterized as non-brokered in 2026. The presentation for September 30, 2025 has been adjusted to
+conform to the presentation for September 30, 2026.
+21
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table I - Loan Delinquency - BPPR Operations
+(Unaudited)
+30-Sep-26
+BPPR
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $4,608 | $2,472 | $3,222 | $10,302 | $334,459 | $344,761 | $3,222 | $—
+Commercial real estate:
+Non-owner occupied | 4,925 | 138 | 25,930 | 30,993 | 3,376,262 | 3,407,255 | 25,930 | —
+Owner occupied | 5,892 | 1,238 | 18,601 | 25,731 | 1,179,548 | 1,205,279 | 18,601 | —
+Commercial and industrial | 5,920 | 2,721 | 188,053 | 196,694 | 5,893,457 | 6,090,151 | 183,940 | 4,113
+Construction | 11,944 | — | — | 11,944 | 457,743 | 469,687 | — | —
+Mortgage | 245,242 | 115,758 | 320,383 | 681,383 | 6,963,994 | 7,645,377 | 130,982 | 189,401
+Leasing | 22,785 | 5,283 | 7,713 | 35,781 | 1,916,344 | 1,952,125 | 7,713 | —
+Consumer:
+Credit cards | 14,018 | 9,957 | 24,279 | 48,254 | 1,211,793 | 1,260,047 | — | 24,279
+Home equity lines of credit | — | — | — | — | 1,818 | 1,818 | — | —
+Personal | 21,317 | 12,624 | 16,349 | 50,290 | 1,891,960 | 1,942,250 | 16,349 | —
+Auto | 111,097 | 20,747 | 32,223 | 164,067 | 3,592,392 | 3,756,459 | 32,223 | —
+Other | 340 | 121 | 3,491 | 3,952 | 165,537 | 169,489 | 2,994 | 497
+Total | $448,088 | $171,059 | $640,244 | $1,259,391 | $26,985,307 | $28,244,698 | $421,954 | $218,290
+30-Jun-26
+BPPR
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $10,723 | $— | $— | $10,723 | $335,236 | $345,959 | $— | $—
+Commercial real estate:
+Non-owner occupied | 2,750 | 160 | 26,016 | 28,926 | 3,292,169 | 3,321,095 | 26,016 | —
+Owner occupied | 2,053 | — | 15,374 | 17,427 | 1,139,254 | 1,156,681 | 15,374 | —
+Commercial and industrial | 5,063 | 2,084 | 142,947 | 150,094 | 6,012,974 | 6,163,068 | 138,389 | 4,558
+Construction | — | — | — | — | 425,850 | 425,850 | — | —
+Mortgage | 228,082 | 108,220 | 320,739 | 657,041 | 6,872,509 | 7,529,550 | 129,240 | 191,499
+Leasing | 22,358 | 5,549 | 7,182 | 35,089 | 1,932,946 | 1,968,035 | 7,182 | —
+Consumer:
+Credit cards | 12,058 | 8,488 | 23,367 | 43,913 | 1,194,097 | 1,238,010 | — | 23,367
+Home equity lines of credit | — | — | — | — | 1,852 | 1,852 | — | —
+Personal | 17,784 | 10,789 | 16,605 | 45,178 | 1,850,841 | 1,896,019 | 16,605 | —
+Auto | 99,765 | 19,552 | 31,474 | 150,791 | 3,615,857 | 3,766,648 | 31,474 | —
+Other | 327 | 796 | 3,869 | 4,992 | 159,077 | 164,069 | 3,544 | 325
+Total | $400,963 | $155,638 | $587,573 | $1,144,174 | $26,832,662 | $27,976,836 | $367,824 | $219,749
+22
+Variance
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $(6,115) | $2,472 | $3,222 | $(421) | $(777) | $(1,198) | $3,222 | $—
+Commercial real estate:
+Non-owner occupied | 2,175 | (22) | (86) | 2,067 | 84,093 | 86,160 | (86) | —
+Owner occupied | 3,839 | 1,238 | 3,227 | 8,304 | 40,294 | 48,598 | 3,227 | —
+Commercial and industrial | 857 | 637 | 45,106 | 46,600 | (119,517) | (72,917) | 45,551 | (445)
+Construction | 11,944 | — | — | 11,944 | 31,893 | 43,837 | — | —
+Mortgage | 17,160 | 7,538 | (356) | 24,342 | 91,485 | 115,827 | 1,742 | (2,098)
+Leasing | 427 | (266) | 531 | 692 | (16,602) | (15,910) | 531 | —
+Consumer:
+Credit cards | 1,960 | 1,469 | 912 | 4,341 | 17,696 | 22,037 | — | 912
+Home equity lines of credit | — | — | — | — | (34) | (34) | — | —
+Personal | 3,533 | 1,835 | (256) | 5,112 | 41,119 | 46,231 | (256) | —
+Auto | 11,332 | 1,195 | 749 | 13,276 | (23,465) | (10,189) | 749 | —
+Other | 13 | (675) | (378) | (1,040) | 6,460 | 5,420 | (550) | 172
+Total | $47,125 | $15,421 | $52,671 | $115,217 | $152,645 | $267,862 | $54,130 | $(1,459)
+23
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table J - Loan Delinquency - Popular U.S. Operations
+(Unaudited)
+30-Sep-26
+Popular U.S.
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $4,985 | $2,132 | $7,151 | $14,268 | $2,037,952 | $2,052,220 | $7,151 | $—
+Commercial real estate: | —
+Non-owner occupied | 27,718 | 2,059 | 6,329 | 36,106 | 2,399,379 | 2,435,485 | 6,329 | —
+Owner occupied | 5,048 | — | 8,865 | 13,913 | 2,193,008 | 2,206,921 | 8,865 | —
+Commercial and industrial | 8,696 | 7,792 | 8,632 | 25,120 | 2,593,787 | 2,618,907 | 8,469 | 163
+Construction | — | 12,491 | — | 12,491 | 1,103,695 | 1,116,186 | — | —
+Mortgage | 1,276 | 3,977 | 9,256 | 14,509 | 1,200,299 | 1,214,808 | 9,256 | —
+Consumer: | —
+Credit cards | — | — | — | — | 6 | 6 | — | —
+Home equity lines of credit | 735 | 1,046 | 2,876 | 4,657 | 82,131 | 86,788 | 2,876 | —
+Personal | 614 | 399 | 837 | 1,850 | 50,160 | 52,010 | 837 | —
+Other | — | — | 48 | 48 | 14,579 | 14,627 | 48 | —
+Total | $49,072 | $29,896 | $43,994 | $122,962 | $11,674,996 | $11,797,958 | $43,831 | $163
+30-Jun-26
+Popular U.S.
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $5,166 | $— | $8,931 | $14,097 | $2,039,368 | $2,053,465 | $8,931 | $—
+Commercial real estate: | —
+Non-owner occupied | 1,600 | 3,391 | 6,950 | 11,941 | 2,287,839 | 2,299,780 | 6,950 | —
+Owner occupied | 994 | 1,438 | 8,865 | 11,297 | 2,088,724 | 2,100,021 | 8,865 | —
+Commercial and industrial | 5,672 | 58 | 6,737 | 12,467 | 2,598,549 | 2,611,016 | 6,563 | 174
+Construction | — | 12,491 | — | 12,491 | 1,293,734 | 1,306,225 | — | —
+Mortgage | 898 | 2,773 | 10,233 | 13,904 | 1,236,880 | 1,250,784 | 10,233 | —
+Consumer: | —
+Credit cards | — | — | — | — | (13) | (13) | — | —
+Home equity lines of credit | 912 | 119 | 3,320 | 4,351 | 79,154 | 83,505 | 3,320 | —
+Personal | 513 | 656 | 751 | 1,920 | 54,786 | 56,706 | 751 | —
+Other | 441 | — | — | 441 | 11,096 | 11,537 | — | —
+Total | $16,196 | $20,926 | $45,787 | $82,909 | $11,690,117 | $11,773,026 | $45,613 | $174
+24
+Variance
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $(181) | $2,132 | $(1,780) | $171 | $(1,416) | $(1,245) | $(1,780) | $—
+Commercial real estate:
+Non-owner occupied | 26,118 | (1,332) | (621) | 24,165 | 111,540 | 135,705 | (621) | —
+Owner occupied | 4,054 | (1,438) | — | 2,616 | 104,284 | 106,900 | — | —
+Commercial and industrial | 3,024 | 7,734 | 1,895 | 12,653 | (4,762) | 7,891 | 1,906 | (11)
+Construction | — | — | — | — | (190,039) | (190,039) | — | —
+Mortgage | 378 | 1,204 | (977) | 605 | (36,581) | (35,976) | (977) | —
+Consumer:
+Credit cards | — | — | — | — | 19 | 19 | — | —
+Home equity lines of credit | (177) | 927 | (444) | 306 | 2,977 | 3,283 | (444) | —
+Personal | 101 | (257) | 86 | (70) | (4,626) | (4,696) | 86 | —
+Other | (441) | — | 48 | (393) | 3,483 | 3,090 | 48 | —
+Total | $32,876 | $8,970 | $(1,793) | $40,053 | $(15,121) | $24,932 | $(1,782) | $(11)
+25
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table K - Loan Delinquency - Consolidated
+(Unaudited)
+30-Sep-26
+Popular, Inc.
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $9,593 | $4,604 | $10,373 | $24,570 | $2,372,411 | $2,396,981 | $10,373 | $—
+Commercial real estate:
+Non-owner occupied | 32,643 | 2,197 | 32,259 | 67,099 | 5,775,641 | 5,842,740 | 32,259 | —
+Owner occupied | 10,940 | 1,238 | 27,466 | 39,644 | 3,372,556 | 3,412,200 | 27,466 | —
+Commercial and industrial | 14,616 | 10,513 | 196,685 | 221,814 | 8,487,244 | 8,709,058 | 192,409 | 4,276
+Construction | 11,944 | 12,491 | — | 24,435 | 1,561,438 | 1,585,873 | — | —
+Mortgage | 246,518 | 119,735 | 329,639 | 695,892 | 8,164,293 | 8,860,185 | 140,238 | 189,401
+Leasing | 22,785 | 5,283 | 7,713 | 35,781 | 1,916,344 | 1,952,125 | 7,713 | —
+Consumer:
+Credit cards | 14,018 | 9,957 | 24,279 | 48,254 | 1,211,799 | 1,260,053 | — | 24,279
+Home equity lines of credit | 735 | 1,046 | 2,876 | 4,657 | 83,949 | 88,606 | 2,876 | —
+Personal | 21,931 | 13,023 | 17,186 | 52,140 | 1,942,120 | 1,994,260 | 17,186 | —
+Auto | 111,097 | 20,747 | 32,223 | 164,067 | 3,592,392 | 3,756,459 | 32,223 | —
+Other | 340 | 121 | 3,539 | 4,000 | 180,116 | 184,116 | 3,042 | 497
+Total | $497,160 | $200,955 | $684,238 | $1,382,353 | $38,660,303 | $40,042,656 | $465,785 | $218,453
+30-Jun-26
+Popular, Inc.
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $15,889 | $— | $8,931 | $24,820 | $2,374,604 | $2,399,424 | $8,931 | $—
+Commercial real estate:
+Non-owner occupied | 4,350 | 3,551 | 32,966 | 40,867 | 5,580,008 | 5,620,875 | 32,966 | —
+Owner occupied | 3,047 | 1,438 | 24,239 | 28,724 | 3,227,978 | 3,256,702 | 24,239 | —
+Commercial and industrial | 10,735 | 2,142 | 149,684 | 162,561 | 8,611,523 | 8,774,084 | 144,952 | 4,732
+Construction | — | 12,491 | — | 12,491 | 1,719,584 | 1,732,075 | — | —
+Mortgage | 228,980 | 110,993 | 330,972 | 670,945 | 8,109,389 | 8,780,334 | 139,473 | 191,499
+Leasing | 22,358 | 5,549 | 7,182 | 35,089 | 1,932,946 | 1,968,035 | 7,182 | —
+Consumer:
+Credit cards | 12,058 | 8,488 | 23,367 | 43,913 | 1,194,084 | 1,237,997 | — | 23,367
+Home equity lines of credit | 912 | 119 | 3,320 | 4,351 | 81,006 | 85,357 | 3,320 | —
+Personal | 18,297 | 11,445 | 17,356 | 47,098 | 1,905,627 | 1,952,725 | 17,356 | —
+Auto | 99,765 | 19,552 | 31,474 | 150,791 | 3,615,857 | 3,766,648 | 31,474 | —
+Other | 768 | 796 | 3,869 | 5,433 | 170,173 | 175,606 | 3,544 | 325
+Total | $417,159 | $176,564 | $633,360 | $1,227,083 | $38,522,779 | $39,749,862 | $413,437 | $219,923
+26
+Variance
+Past due | Past due 90 days or more
+(In thousands) | 30-59 days | 60-89 days | 90 days or more | Total past due | Current | Loans HIP | Non-accrual loans | Accruing loans
+Commercial multi-family | $(6,296) | $4,604 | $1,442 | $(250) | $(2,193) | $(2,443) | $1,442 | $—
+Commercial real estate:
+Non-owner occupied | 28,293 | (1,354) | (707) | 26,232 | 195,633 | 221,865 | (707) | —
+Owner occupied | 7,893 | (200) | 3,227 | 10,920 | 144,578 | 155,498 | 3,227 | —
+Commercial and industrial | 3,881 | 8,371 | 47,001 | 59,253 | (124,279) | (65,026) | 47,457 | (456)
+Construction | 11,944 | — | — | 11,944 | (158,146) | (146,202) | — | —
+Mortgage | 17,538 | 8,742 | (1,333) | 24,947 | 54,904 | 79,851 | 765 | (2,098)
+Leasing | 427 | (266) | 531 | 692 | (16,602) | (15,910) | 531 | —
+Consumer:
+Credit cards | 1,960 | 1,469 | 912 | 4,341 | 17,715 | 22,056 | — | 912
+Home equity lines of credit | (177) | 927 | (444) | 306 | 2,943 | 3,249 | (444) | —
+Personal | 3,634 | 1,578 | (170) | 5,042 | 36,493 | 41,535 | (170) | —
+Auto | 11,332 | 1,195 | 749 | 13,276 | (23,465) | (10,189) | 749 | —
+Other | (428) | (675) | (330) | (1,433) | 9,943 | 8,510 | (502) | 172
+Total | $80,001 | $24,391 | $50,878 | $155,270 | $137,524 | $292,794 | $52,348 | $(1,470)
+27
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table L - Non-Performing Assets
+(Unaudited)
+Variance
+(Dollars in thousands) | 30-Sep-26 | As a % of loans HIP by category | 30-Jun-26 | As a % of loans HIP by category | 30-Sep-25 | As a % of loans HIP by category | Q3 2026 vs. Q2 2026 | Q3 2026 vs Q3 2025
+Non-accrual loans:
+Commercial
+Commercial multi-family | $10,373 | 0.4% | $8,931 | 0.4% | $8,641 | 0.3% | $1,442 | $1,732
+Commercial real estate non-owner occupied | 32,259 | 0.6 | 32,966 | 0.6 | 44,126 | 0.8 | (707) | (11,867)
+Commercial real estate owner occupied | 27,466 | 0.8 | 24,239 | 0.7 | 25,619 | 0.8 | 3,227 | 1,847
+Commercial and industrial | 192,409 | 2.2 | 144,952 | 1.7 | 174,491 | 2.1 | 47,457 | 17,918
+Total Commercial | 262,507 | 1.3 | 211,088 | 1.1 | 252,877 | 1.3 | 51,419 | 9,630
+Mortgage | 140,238 | 1.6 | 139,473 | 1.6 | 167,767 | 2.0 | 765 | (27,529)
+Leasing | 7,713 | 0.4 | 7,182 | 0.4 | 7,747 | 0.4 | 531 | (34)
+Consumer
+Home equity lines of credit | 2,876 | 3.2 | 3,320 | 3.9 | 3,257 | 4.1 | (444) | (381)
+Personal | 17,186 | 0.9 | 17,356 | 0.9 | 19,316 | 1.0 | (170) | (2,130)
+Auto | 32,223 | 0.9 | 31,474 | 0.8 | 49,432 | 1.3 | 749 | (17,209)
+Other | 3,042 | 1.7 | 3,544 | 2.0 | 1,806 | 1.0 | (502) | 1,236
+Total Consumer | 55,327 | 0.8 | 55,694 | 0.8 | 73,811 | 1.0 | (367) | (18,484)
+Total non-performing loans held-in- portfolio | 465,785 | 1.2% | 413,437 | 1.0% | 502,202 | 1.3% | 52,348 | (36,417)
+Non-performing loans held-for-sale | — | 83,700 | — | (83,700) | —
+Other real estate owned (“OREO”) | 44,299 | 49,557 | 42,950 | (5,258) | 1,349
+Total non-performing assets | 510,084 | 546,694 | 545,152 | (36,610) | (35,068)
+Accruing loans past due 90 days or more [1] | 218,453 | 219,923 | 205,356 | $(1,470) | $13,097
+Ratios:
+Non-performing assets to total assets | 0.66% | 0.69% | 0.73%
+Non-performing loans held-in-portfolio to loans held-in-portfolio | 1.16 | 1.04 | 1.30
+Allowance for credit losses to loans held- in-portfolio | 1.92 | 1.97 | 2.03
+Allowance for credit losses to non- performing loans, excluding loans held-for- sale | 165.46 | 189.83 | 156.55
+[1] It is the Corporation’s policy to report delinquent residential mortgage loans insured by FHA or guaranteed by the VA as accruing loans past due 90 days or
+more as opposed to non-performing since the principal repayment is insured. These balances include $35 million of residential mortgage loans insured by FHA
+or guaranteed by the VA that are no longer accruing interest as of September 2026 (June 2026 - $40 million ; September 2025 - $49 million). Furthermore, the
+Corporation has approximately $23 million reverse mortgage loans which are guaranteed by FHA, as of September 2026 . Due to the guaranteed nature of the
+loans, it is the Corporation’s policy to exclude these balances from non-performing assets (June 2026 - $25 million ; September 2025 - $29 million ).
+28
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table M - Activity in Non-Performing Loans
+(Unaudited)
+Commercial loans held-in-portfolio:
+Quarter ended | Quarter ended
+30-Sep-26 | 30-Jun-26
+(In thousands) | BPPR | Popular U.S. | Popular, Inc. | BPPR | Popular U.S. | Popular, Inc.
+Beginning balance NPLs | $179,779 | $31,309 | $211,088 | $226,642 | $24,473 | $251,115
+Plus:
+New non-performing loans | 91,131 | 5,924 | 97,055 | 136,095 | 16,382 | 152,477
+Advances on existing non-performing loans | — | 210 | 210 | — | 62 | 62
+Less:
+Non-performing loans transferred to OREO | — | — | — | (301) | — | (301)
+Non-performing loans charged-off | (34,809) | (585) | (35,394) | (73,035) | (1,571) | (74,606)
+Loans returned to accrual status / loan collections | (4,408) | (6,044) | (10,452) | (25,922) | (8,037) | (33,959)
+Loans transferred to held-for-sale | — | — | — | (83,700) | — | (83,700)
+Ending balance NPLs | $231,693 | $30,814 | $262,507 | $179,779 | $31,309 | $211,088
+Mortgage loans held-in-portfolio:
+Quarter ended | Quarter ended
+30-Sep-26 | 30-Jun-26
+(In thousands) | BPPR | Popular U.S. | Popular, Inc. | BPPR | Popular U.S. | Popular, Inc.
+Beginning balance NPLs | $129,240 | $10,233 | $139,473 | $129,367 | $9,700 | $139,067
+Plus:
+New non-performing loans | 30,624 | 2,804 | 33,428 | 30,664 | 3,251 | 33,915
+Advances on existing non-performing loans | — | — | — | — | 4 | 4
+Less:
+Non-performing loans transferred to OREO | (1,497) | — | (1,497) | (1,985) | — | (1,985)
+Non-performing loans charged-off | 44 | (4) | 40 | 119 | (9) | 110
+Loans returned to accrual status / loan collections | (27,429) | (3,777) | (31,206) | (28,925) | (2,713) | (31,638)
+Ending balance NPLs | $130,982 | $9,256 | $140,238 | $129,240 | $10,233 | $139,473
+Total non-performing loans held-in-portfolio (excluding consumer):
+Quarter ended | Quarter ended
+30-Sep-26 | 30-Jun-26
+(In thousands) | BPPR | Popular U.S. | Popular, Inc. | BPPR | Popular U.S. | Popular, Inc.
+Beginning balance NPLs | $309,019 | $41,542 | $350,561 | $356,009 | $34,173 | $390,182
+Plus:
+New non-performing loans | 121,755 | 8,728 | 130,483 | 166,759 | 19,633 | 186,392
+Advances on existing non-performing loans | — | 210 | 210 | — | 66 | 66
+Less:
+Non-performing loans transferred to OREO | (1,497) | — | (1,497) | (2,286) | — | (2,286)
+Non-performing loans charged-off | (34,765) | (589) | (35,354) | (72,916) | (1,580) | (74,496)
+Loans returned to accrual status / loan collections | (31,837) | (9,821) | (41,658) | (54,847) | (10,750) | (65,597)
+Loans transferred to held-for-sale | — | — | — | (83,700) | — | (83,700)
+Ending balance NPLs | $362,675 | $40,070 | $402,745 | $309,019 | $41,542 | $350,561
+29
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table N - Allowance for Credit Losses, Net Charge-offs and Related Ratios
+(Unaudited)
+Quarters ended
+(In thousands) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25
+Balance at beginning of period - loans held-in-portfolio | $784,832 | $823,729 | $769,485
+Provision for credit losses | 58,788 | 65,154 | 74,517
+Initial allowance for credit losses - PCD Loans | 3 | 2 | 6
+843,623 | 888,885 | 844,008
+Net loans charge-off (recovered)- BPPR
+Commercial:
+Commercial multi-family | (2) | — | (2)
+Commercial real estate non-owner occupied | (676) | (4,102) | 12,614
+Commercial real estate owner occupied | (4,211) | (2,063) | (947)
+Commercial and industrial | 34,085 | 73,406 | 1,467
+Total Commercial | 29,196 | 67,241 | 13,132
+Construction | (80) | — | —
+Mortgage | (3,324) | (4,922) | (2,216)
+Leasing | 1,605 | 1,840 | 2,054
+Consumer:
+Credit cards | 13,739 | 14,300 | 15,310
+Home equity lines of credit | (107) | (44) | (89)
+Personal | 17,212 | 16,143 | 15,685
+Auto | 13,067 | 5,808 | 12,036
+Other Consumer | 769 | 1,322 | 627
+Total Consumer | 44,680 | 37,529 | 43,569
+Total net charged-off BPPR | $72,077 | $101,688 | $56,539
+Net loans charge-off (recovered) - Popular U.S.
+Commercial:
+Commercial multi-family | — | 1,312 | (60)
+Commercial real estate owner occupied | 626 | (139) | (16)
+Commercial and industrial | (127) | 87 | 660
+Total Commercial | 499 | 1,260 | 584
+Construction | — | — | —
+Mortgage | (32) | (31) | (36)
+Consumer:
+Credit cards | — | 1 | —
+Home equity lines of credit | (428) | (106) | (423)
+Personal | 804 | 1,233 | 1,109
+Other Consumer | 16 | 8 | 15
+Total Consumer | 392 | 1,136 | 701
+Total net charged-off Popular U.S. | $859 | $2,365 | $1,249
+Total loans net charged-off - Popular, Inc. | $72,936 | $104,053 | $57,788
+Balance at end of period - loans held-in-portfolio | $770,687 | $784,832 | $786,220
+Balance at beginning of period - unfunded commitments | $14,936 | $14,547 | $13,053
+Provision for credit losses (benefit) | (22) | 389 | 770
+Balance at end of period - unfunded commitments [1] | $14,914 | $14,936 | $13,823
+POPULAR, INC.
+Annualized net charge-offs (recoveries) to average loans held-in-portfolio | 0.73% | 1.05% | 0.60%
+Provision for credit losses (benefit) - loan portfolios to net charge-offs | 80.60% | 62.62% | 128.95%
+BPPR
+Annualized net charge-offs (recoveries) to average loans held-in-portfolio | 1.03% | 1.46% | 0.84%
+Provision for credit losses (benefit) - loan portfolios to net charge-offs | 85.09% | 60.71% | 128.48%
+Popular U.S.
+Annualized net charge-offs (recoveries) to average loans held-in-portfolio | 0.03% | 0.08% | 0.04%
+Provision for credit losses (benefit) - loan portfolios to net charge-offs | (295.81%) | 144.44% | 150.36%
+[1] Allowance for credit losses of unfunded commitments is presented as part of Other Liabilities in the Consolidated Statements of Financial Condition.
+30
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table O - Allowance for Credit Losses “ACL”- Loan Portfolios - BPPR Operations
+(Unaudited)
+30-Sep-26
+BPPR
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $3,420 | $344,761 | 0.99%
+Commercial real estate - non-owner occupied | 38,230 | 3,407,255 | 1.12%
+Commercial real estate - owner occupied | 38,653 | 1,205,279 | 3.21%
+Commercial and industrial | 175,264 | 6,090,151 | 2.88%
+Total commercial | $255,567 | $11,047,446 | 2.31%
+Construction | 4,193 | 469,687 | 0.89%
+Mortgage | 69,390 | 7,645,377 | 0.91%
+Leasing | 16,870 | 1,952,125 | 0.86%
+Consumer:
+Credit cards | 84,992 | 1,260,047 | 6.75%
+Home equity lines of credit | 47 | 1,818 | 2.59%
+Personal | 89,962 | 1,942,250 | 4.63%
+Auto | 152,931 | 3,756,459 | 4.07%
+Other | 7,590 | 169,489 | 4.48%
+Total consumer | $335,522 | $7,130,063 | 4.71%
+Total | $681,542 | $28,244,698 | 2.41%
+30-Jun-26
+BPPR
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $4,069 | $345,959 | 1.18%
+Commercial real estate - non-owner occupied | 40,179 | 3,321,095 | 1.21%
+Commercial real estate - owner occupied | 35,549 | 1,156,681 | 3.07%
+Commercial and industrial | 166,787 | 6,163,068 | 2.71%
+Total commercial | $246,584 | $10,986,803 | 2.24%
+Construction | 4,803 | 425,850 | 1.13%
+Mortgage | 70,498 | 7,529,550 | 0.94%
+Leasing | 17,627 | 1,968,035 | 0.90%
+Consumer:
+Credit cards | 84,817 | 1,238,010 | 6.85%
+Home equity lines of credit | 52 | 1,852 | 2.81%
+Personal | 96,014 | 1,896,019 | 5.06%
+Auto | 164,543 | 3,766,648 | 4.37%
+Other | 7,349 | 164,069 | 4.48%
+Total consumer | $352,775 | $7,066,598 | 4.99%
+Total | $692,287 | $27,976,836 | 2.47%
+31
+Variance
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $(649) | $(1,198) | (0.18%)
+Commercial real estate - non-owner occupied | (1,949) | 86,160 | (0.09%)
+Commercial real estate - owner occupied | 3,104 | 48,598 | 0.13%
+Commercial and industrial | 8,477 | (72,917) | 0.17%
+Total commercial | $8,983 | $60,643 | 0.07%
+Construction | (610) | 43,837 | (0.24%)
+Mortgage | (1,108) | 115,827 | (0.03)%
+Leasing | (757) | (15,910) | (0.03)%
+Consumer:
+Credit cards | 175 | 22,037 | (0.11)%
+Home equity lines of credit | (5) | (34) | (0.22%)
+Personal | (6,052) | 46,231 | (0.43%)
+Auto | (11,612) | (10,189) | (0.30%)
+Other | 241 | 5,420 | —%
+Total consumer | $(17,253) | $63,465 | (0.29%)
+Total | $(10,745) | $267,862 | (0.06)%
+32
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table P - Allowance for Credit Losses “ACL”- Loan Portfolios - POPULAR U.S. Operations
+(Unaudited)
+30-Sep-26
+Popular U.S.
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $12,391 | $2,052,220 | 0.60%
+Commercial real estate - non-owner occupied | 14,418 | 2,435,485 | 0.59%
+Commercial real estate - owner occupied | 19,180 | 2,206,921 | 0.87%
+Commercial and industrial | 21,415 | 2,618,907 | 0.82%
+Total commercial | $67,404 | $9,313,533 | 0.72%
+Construction | 7,161 | 1,116,186 | 0.64%
+Mortgage | 8,258 | 1,214,808 | 0.68%
+Consumer:
+Credit cards | — | 6 | -%
+Home equity lines of credit | 1,679 | 86,788 | 1.93%
+Personal | 4,639 | 52,010 | 8.92%
+Other | 4 | 14,627 | 0.03%
+Total consumer | $6,322 | $153,431 | 4.12%
+Total | $89,145 | $11,797,958 | 0.76%
+30-Jun-26
+Popular U.S.
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $14,850 | $2,053,465 | 0.72%
+Commercial real estate - non-owner occupied | 15,631 | 2,299,780 | 0.68%
+Commercial real estate - owner occupied | 17,090 | 2,100,021 | 0.81%
+Commercial and industrial | 18,609 | 2,611,016 | 0.71%
+Total commercial | $66,180 | $9,064,282 | 0.73%
+Construction | 9,557 | 1,306,225 | 0.73%
+Mortgage | 9,024 | 1,250,784 | 0.72%
+Consumer:
+Credit cards | — | (13) | —%
+Home equity lines of credit | 1,371 | 83,505 | 1.64%
+Personal | 6,408 | 56,706 | 11.30%
+Other | 5 | 11,537 | 0.04%
+Total consumer | $7,784 | $151,735 | 5.13%
+Total | $92,545 | $11,773,026 | 0.79%
+33
+Variance
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $(2,459) | $(1,245) | (0.12%)
+Commercial real estate - non-owner occupied | (1,213) | 135,705 | (0.09%)
+Commercial real estate - owner occupied | 2,090 | 106,900 | 0.06%
+Commercial and industrial | 2,806 | 7,891 | 0.10%
+Total commercial | $1,224 | $249,251 | (0.01%)
+Construction | (2,396) | (190,039) | (0.09%)
+Mortgage | (766) | (35,976) | (0.04%)
+Consumer:
+Credit cards | — | 19 | —%
+Home equity lines of credit | 308 | 3,283 | 0.29%
+Personal | (1,769) | (4,696) | (2.38%)
+Other | (1) | 3,090 | (0.02%)
+Total consumer | $(1,462) | $1,696 | (1.01)%
+Total | $(3,400) | $24,932 | (0.03%)
+34
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table Q - Allowance for Credit Losses “ACL”- Loan Portfolios - Consolidated
+(Unaudited)
+30-Sep-26
+Pop Inc.
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $15,811 | $2,396,981 | 0.66%
+Commercial real estate - non-owner occupied | 52,648 | 5,842,740 | 0.90%
+Commercial real estate - owner occupied | 57,833 | 3,412,200 | 1.69%
+Commercial and industrial | 196,679 | 8,709,058 | 2.26%
+Total commercial | $322,971 | $20,360,979 | 1.59%
+Construction | 11,354 | 1,585,873 | 0.72%
+Mortgage | 77,648 | 8,860,185 | 0.88%
+Leasing | 16,870 | 1,952,125 | 0.86%
+Consumer:
+Credit cards | 84,992 | 1,260,053 | 6.75%
+Home equity lines of credit | 1,726 | 88,606 | 1.95%
+Personal | 94,601 | 1,994,260 | 4.74%
+Auto | 152,931 | 3,756,459 | 4.07%
+Other | 7,594 | 184,116 | 4.12%
+Total consumer | $341,844 | $7,283,494 | 4.69%
+Total | $770,687 | $40,042,656 | 1.92%
+30-Jun-26
+Pop Inc.
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $18,919 | $2,399,424 | 0.79%
+Commercial real estate - non-owner occupied | 55,810 | 5,620,875 | 0.99%
+Commercial real estate - owner occupied | 52,639 | 3,256,702 | 1.62%
+Commercial and industrial | 185,396 | 8,774,084 | 2.11%
+Total commercial | $312,764 | $20,051,085 | 1.56%
+Construction | 14,360 | 1,732,075 | 0.83%
+Mortgage | 79,522 | 8,780,334 | 0.91%
+Leasing | 17,627 | 1,968,035 | 0.90%
+Consumer:
+Credit cards | 84,817 | 1,237,997 | 6.85%
+Home equity lines of credit | 1,423 | 85,357 | 1.67%
+Personal | 102,422 | 1,952,725 | 5.25%
+Auto | 164,543 | 3,766,648 | 4.37%
+Other | 7,354 | 175,606 | 4.19%
+Total consumer | $360,559 | $7,218,333 | 5.00%
+Total | $784,832 | $39,749,862 | 1.97%
+35
+Variance
+(Dollars in thousands) | Total ACL | Total loans held-in- portfolio | ACL to loans held- in-portfolio
+Commercial:
+Commercial multi-family | $(3,108) | $(2,443) | (0.13%)
+Commercial real estate - non-owner occupied | (3,162) | 221,865 | (0.09%)
+Commercial real estate - owner occupied | 5,194 | 155,498 | 0.08%
+Commercial and industrial | 11,283 | (65,026) | 0.15%
+Total commercial | $10,207 | $309,894 | 0.03%
+Construction | (3,006) | (146,202) | (0.11%)
+Mortgage | (1,874) | 79,851 | (0.03)%
+Leasing | (757) | (15,910) | (0.03)%
+Consumer:
+Credit cards | 175 | 22,056 | (0.11)%
+Home equity lines of credit | 303 | 3,249 | 0.28%
+Personal | (7,821) | 41,535 | (0.50%)
+Auto | (11,612) | (10,189) | (0.30%)
+Other | 240 | 8,510 | (0.06%)
+Total consumer | $(18,715) | $65,161 | (0.30%)
+Total | $(14,145) | $292,794 | (0.05)%
+36
+Popular, Inc.
+Financial Supplement to Third Quarter 2026 Earnings Release
+Table R - Reconciliation to GAAP Financial Measures
+(Unaudited)
+Quarters ended
+(In thousands, except share or per share information) | 30-Sep-26 | 30-Jun-26 | 30-Sep-25
+Total stockholders’ equity | $6,238,844 | $6,433,005 | $6,115,672
+Less: Preferred stock | (22,143) | (22,143) | (22,143)
+Less: Goodwill | (789,954) | (789,954) | (789,954)
+Less: Other intangibles | (3,924) | (4,308) | (5,460)
+Total tangible common equity | $5,422,823 | $5,616,600 | $5,298,115
+Total assets | $77,758,872 | $78,972,300 | $75,065,798
+Less: Goodwill | (789,954) | (789,954) | (789,954)
+Less: Other intangibles | (3,924) | (4,308) | (5,460)
+Total tangible assets | $76,964,994 | $78,178,038 | $74,270,384
+Tangible common equity to tangible assets | 7.05% | 7.18% | 7.13%
+Common shares outstanding at end of period | 62,834,136 | 63,866,681 | 66,959,866
+Tangible book value per common share | $86.30 | $87.94 | $79.12
+Quarterly average
+30-Sep-26 | 30-Jun-26 | 30-Sep-25
+Total stockholders’ equity | $6,439,803 | $6,354,694 | $6,882,514 | [1]
+Less: Preferred Stock | (22,143) | (22,143) | (22,143)
+Less: Goodwill | (789,954) | (789,954) | (802,812)
+Less: Other intangibles | (4,177) | (4,559) | (5,714)
+Total tangible common equity before adjusting for the impact of unrealized (gains) losses on AFS securities including those transferred to HTM | $5,623,529 | $5,538,038 | $6,051,845
+Return on average tangible common equity before adjusting for the impact of unrealized (gains) losses on AFS securities including those transferred to HTM | 18.76% | 20.12% | 13.83%
+Add: Average unrealized (gains) losses on AFS securities | 903,931 | 824,631 | 61,027
+Add: Average unrealized (gains) losses on AFS securities transferred to HTM | 150,274 | 184,136 | 296,934
+Total tangible common equity after adding back of impact of unrealized (gains) losses on AFS securities, including those transferred to HTM | $6,677,734 | $6,546,805 | $6,409,806
+ROTCE | 15.80% | 17.02% | 13.06%
+[1] Average balances exclude certain unrealized gains or losses on debt securities available-for-sale.
+37
+CONTACTS:
+Popular, Inc.
+Investor Relations:
+Paul J. Cardillo, 212-417-6721
+Senior Vice President and Investor Relations Officer
+pcardillo@popular.com
+or
+Media Relations:
+MC González Noguera, 917-804-5253
+Executive Vice President and Chief Communications & Public Affairs Officer
+mc.gonzalez@popular.com

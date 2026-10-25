@@ -1,1 +1,297 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,271 | $ | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 24% in the quarter, with Google Cloud growth accelerating to 82%.",
+        "quote": "Consolidated Alphabet revenues increased 24%, or 23% in constant currency, to $119.8 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income grew 30% and operating margin rose to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income was a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls Q2 an amazing quarter and describes the results as outstanding, with no headwind named."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:55:56+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales grew 20% year over year in the quarter.",
+        "quote": "Net sales increased 20% to $200.6 billion in the second quarter, compared with $167.7 billion in second quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose to $27.5 billion from $19.2 billion a year earlier.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Net income included a large non-operating gain, mainly from investments in Anthropic.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and advertising had a strong quarter, and looks forward to the second half."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:55:56+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue grew 26% year over year, on both a reported and constant currency basis.",
+        "quote": "Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Costs and expenses rose 68%, including a litigation charge.",
+        "quote": "Total costs and expenses were $51.61 billion, an increase of 68% year-over-year. This includes the litigation charge as discussed above."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Meta expects to keep investing aggressively in the core business and AI.",
+        "quote": "we expect to continue investing aggressively to support both our core business and emerging AI initiatives."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the core business is strong and investments are paying off; the release also notes the legal charge."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:55:56+08:00"
+  },
+  {
+    "cik": "763901",
+    "company": "POPULAR, INC.",
+    "accession": "0000763901-26-000022",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 266.334,
+        "unit": "USD millions",
+        "quote": "Net income | $266,334 | $278,214"
+      },
+      "diluted_eps": {
+        "value": 4.21,
+        "unit": "USD per share",
+        "quote": "Net income per common share-diluted | $4.21 | $4.35"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Earnings per share were $4.21, lower than the second quarter and higher than a year earlier.",
+        "quote": "We reported earnings per share of $4.21, 3% lower than the second quarter and 34% higher than the third quarter of 2025"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Results reflected higher net interest income, offset in part by higher operating expenses and lower non-interest income.",
+        "quote": "These results reflected higher net interest income, stable underlying credit trends and continued"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is pleased with the quarter and calls credit metrics stable, while staying attentive to economic conditions."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/763901-0000763901-26-000022.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/763901/000076390126000022/ex9918kpressreleaseq32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/763901/000076390126000022/0000763901-26-000022-index.htm",
+    "saved_at": "2026-10-25T21:55:56+08:00"
+  },
+  {
+    "cik": "931148",
+    "company": "GRAFTECH INTERNATIONAL LTD",
+    "accession": "0000931148-26-000085",
+    "release_date": "2026-10-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 140.163,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 140,163 | $ | 143,998"
+      },
+      "operating_income": {
+        "value": -22.672,
+        "unit": "USD millions",
+        "quote": "Operating loss | (22,672) | (5,116)"
+      },
+      "net_income": {
+        "value": -46.768,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (46,768) | $ | (28,482)"
+      },
+      "diluted_eps": {
+        "value": -1.76,
+        "unit": "USD per share",
+        "quote": "Net loss per share | $ | (1.76) | $ | (1.10)"
+      }
+    },
+    "guidance": {
+      "text": "GrafTech expects fourth quarter realised pricing to rise by a mid-single-digit percentage from the third quarter.",
+      "quote": "For the fourth quarter, we anticipate a mid-single-digit percentage increase in our weighted-average realized pricing compared to the third quarter."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales fell 3% year over year, mainly on lower realised pricing.",
+        "quote": "Net sales for the third quarter of 2026 were $140 million, a decrease of 3% compared to $144 million for the third quarter of 2025, primarily driven by lower weighted-average realized pricing."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO believes realised pricing has reached an inflection point and expects higher pricing in 2027.",
+        "quote": "Pricing momentum across our key commercial regions reinforces our confidence that our realized pricing has reached an inflection point, positioning us for meaningfully higher realized pricing in 2027."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The Monterrey closure is expected to save $20 to $25 million in annual cash costs.",
+        "quote": "expected to generate $20 to $25 million in annual cash cost savings while better aligning production capacity with market demand"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is confident on pricing and cost actions, while the quarter shows a net loss and lower sales."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/931148-0000931148-26-000085.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/931148/000093114826000085/a2026-3qearningspressrelea.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/931148/000093114826000085/0000931148-26-000085-index.htm",
+    "saved_at": "2026-10-25T21:55:56+08:00"
+  }
+]
