@@ -1,88 +1,88 @@
 {
-  "fetched_at": "2026-10-31T09:00:21+08:00",
+  "fetched_at": "2026-11-01T08:04:10+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-10-25",
-    "end": "2026-10-30",
+    "end": "2026-10-31",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 26,
-  "answered": 26,
+  "requests": 27,
+  "answered": 27,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 158 ms"
+      "detail": "HTTP 200, 60 KB in 1167 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 46 ms"
+      "detail": "HTTP 200, 59 KB in 325 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 831 ms"
+      "detail": "HTTP 200, 60 KB in 819 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 696 ms"
+      "detail": "HTTP 200, 60 KB in 446 ms"
     },
     {
       "name": "Earnings radar, page 5",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=400",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 83 ms"
+      "detail": "HTTP 200, 60 KB in 687 ms"
     },
     {
       "name": "Earnings radar, page 6",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=500",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 665 ms"
+      "detail": "HTTP 200, 60 KB in 1007 ms"
     },
     {
       "name": "Earnings radar, page 7",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=600",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 53 ms"
+      "detail": "HTTP 200, 61 KB in 133 ms"
     },
     {
       "name": "Earnings radar, page 8",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=700",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=700",
       "ok": true,
-      "detail": "HTTP 200, 62 KB in 58 ms"
+      "detail": "HTTP 200, 62 KB in 1183 ms"
     },
     {
       "name": "Earnings radar, page 9",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-30&from=800",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-31&from=800",
       "ok": true,
-      "detail": "HTTP 200, 39 KB in 132 ms"
+      "detail": "HTTP 200, 39 KB in 299 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 92 ms"
+      "detail": "HTTP 200, 148 KB in 39 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 110 ms"
+      "detail": "HTTP 200, 1 KB in 44 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 204 ms"
+      "detail": "HTTP 200, 361 KB in 106 ms"
     },
     {
       "name": "Amazon filings list",
@@ -94,88 +94,94 @@
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 56 ms"
+      "detail": "HTTP 200, 1 KB in 25 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 123 ms"
+      "detail": "HTTP 200, 657 KB in 153 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 28 ms"
+      "detail": "HTTP 200, 153 KB in 21 ms"
     },
     {
-      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000039/index.json",
+      "name": "Richmond Mutual Bancorporation, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1767837/000162828026068629/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 77 ms"
+      "detail": "HTTP 200, 1 KB in 23 ms"
     },
     {
-      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000039/exhibit9919302026.htm",
+      "name": "Richmond Mutual Bancorporation, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1767837/000162828026068629/rmbi-20260930x8kex_991.htm",
       "ok": true,
-      "detail": "HTTP 200, 397 KB in 130 ms"
+      "detail": "HTTP 200, 362 KB in 52 ms"
     },
     {
-      "name": "Trane Technologies plc filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1466258/000146625826000001/index.json",
+      "name": "Johnson Controls International plc filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000101/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 52 ms"
+      "detail": "HTTP 200, 1 KB in 27 ms"
     },
     {
-      "name": "Trane Technologies plc press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1466258/000146625826000001/exhibit991-q32026earningsr.htm",
+      "name": "Johnson Controls International plc filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000101/0000833444-26-000101-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 421 KB in 124 ms"
+      "detail": "HTTP 200, 10 KB in 59 ms"
+    },
+    {
+      "name": "Johnson Controls International plc press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000101/q4exh991xq4fy26earningsrel.htm",
+      "ok": true,
+      "detail": "HTTP 200, 713 KB in 51 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 51 ms"
+      "detail": "HTTP 200, 3,173 KB in 43 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 28 ms"
+      "detail": "HTTP 200, 4,447 KB in 27 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 22 ms"
+      "detail": "HTTP 200, 2,737 KB in 38 ms"
     },
     {
-      "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001058290.json",
+      "name": "Richmond Mutual Bancorporation, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001767837.json",
       "ok": true,
-      "detail": "HTTP 200, 3,713 KB in 55 ms"
+      "detail": "HTTP 200, 1,965 KB in 196 ms"
     },
     {
-      "name": "Trane Technologies plc company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001466258.json",
+      "name": "Johnson Controls International plc company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000833444.json",
       "ok": true,
-      "detail": "HTTP 200, 4,318 KB in 69 ms"
+      "detail": "HTTP 200, 4,853 KB in 28 ms"
     },
     {
       "name": "POPULAR, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000763901.json",
       "ok": true,
-      "detail": "HTTP 200, 7,303 KB in 1090 ms"
+      "detail": "HTTP 200, 7,303 KB in 30 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000763901.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000833444.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001058290.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001466258.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001767837.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -190,11 +196,12 @@
     "efts.sec.gov_search-index_from800.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1058290_000105829026000039_exhibit9919302026.htm",
-    "www.sec.gov_Archives_edgar_data_1058290_000105829026000039_index.json",
-    "www.sec.gov_Archives_edgar_data_1466258_000146625826000001_exhibit991-q32026earningsr.htm",
-    "www.sec.gov_Archives_edgar_data_1466258_000146625826000001_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
+    "www.sec.gov_Archives_edgar_data_1767837_000162828026068629_index.json",
+    "www.sec.gov_Archives_edgar_data_1767837_000162828026068629_rmbi-20260930x8kex_991.htm",
+    "www.sec.gov_Archives_edgar_data_833444_000083344426000101_0000833444-26-000101-index.htm",
+    "www.sec.gov_Archives_edgar_data_833444_000083344426000101_index.json",
+    "www.sec.gov_Archives_edgar_data_833444_000083344426000101_q4exh991xq4fy26earningsrel.htm"
   ]
 }
