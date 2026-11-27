@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T11:36:35+08:00",
+  "fetched_at": "2026-11-27T11:46:22+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,133 +16,133 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 664 ms"
+      "detail": "HTTP 200, 60 KB in 1000 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 251 ms"
+      "detail": "HTTP 200, 60 KB in 1964 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 52 ms"
+      "detail": "HTTP 200, 60 KB in 362 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 73 ms"
+      "detail": "HTTP 200, 59 KB in 1237 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 56 ms"
+      "detail": "HTTP 200, 60 KB in 994 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 70 ms"
+      "detail": "HTTP 200, 60 KB in 700 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 55 ms"
+      "detail": "HTTP 200, 61 KB in 1700 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=700",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 50 ms"
+      "detail": "HTTP 200, 10 KB in 299 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 71 ms"
+      "detail": "HTTP 200, 148 KB in 194 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 78 ms"
+      "detail": "HTTP 200, 1 KB in 82 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 73 ms"
+      "detail": "HTTP 200, 361 KB in 71 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 15 ms"
+      "detail": "HTTP 200, 156 KB in 162 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 70 ms"
+      "detail": "HTTP 200, 1 KB in 54 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 87 ms"
+      "detail": "HTTP 200, 657 KB in 137 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 14 ms"
+      "detail": "HTTP 200, 154 KB in 177 ms"
     },
     {
       "name": "CROSS TIMBERS ROYALTY TRUST filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526468044/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 60 ms"
+      "detail": "HTTP 200, 1 KB in 121 ms"
     },
     {
       "name": "CROSS TIMBERS ROYALTY TRUST press release",
       "url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526468044/crt-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 35 KB in 73 ms"
+      "detail": "HTTP 200, 35 KB in 129 ms"
     },
     {
       "name": "MOOG INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 71 ms"
+      "detail": "HTTP 200, 2 KB in 48 ms"
     },
     {
       "name": "MOOG INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
       "ok": true,
-      "detail": "HTTP 200, 445 KB in 68 ms"
+      "detail": "HTTP 200, 445 KB in 70 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 51 ms"
+      "detail": "HTTP 200, 3,175 KB in 238 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 63 ms"
+      "detail": "HTTP 200, 4,447 KB in 251 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 45 ms"
+      "detail": "HTTP 200, 2,745 KB in 250 ms"
     },
     {
       "name": "CROSS TIMBERS ROYALTY TRUST company facts",
@@ -154,7 +154,7 @@
       "name": "MOOG INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067887.json",
       "ok": true,
-      "detail": "HTTP 200, 4,053 KB in 64 ms"
+      "detail": "HTTP 200, 4,053 KB in 432 ms"
     }
   ],
   "files": [
